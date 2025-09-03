@@ -10,6 +10,8 @@ General flow:
 - Cleanup
 
 # Setup
+You need access to a Db2 instance and database with minimum version 12.1.2 (Db2 12.1 modpack 2). This can be a local or remote server. I have tested it with Db2 12.1 Community Edition for Docker, see my blog post [Db2 12.1 Community Edition for Docker on Fedora](https://data-henrik.de/2025/01/db2-v12-community-edition-docker-linux/) for details and setup instructions.
+
 - Download [ollama](https://ollama.com/download)
 - Download the IBM Granite Embedding model for ollama: `ollama pull hf.co/ibm/granite-embedding-107m-multilingual`
 - Install Python packages: `pip install -r requirements.txt`
