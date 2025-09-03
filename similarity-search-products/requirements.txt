@@ -1,0 +1,8 @@
+ipykernel
+python-dotenv
+nbformat
+pandas
+ibm_db
+ibm_db_sa
+ollama
+jupysql
