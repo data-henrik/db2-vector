@@ -1,7 +1,10 @@
 # Jupyter Notebook to showcase Db2 VECTOR data type and similarity search
 This is my version of a demo showing semantic product recommendation. It is heavily inspired by [Shaikh Quader's demo](https://github.com/shaikhq/db2-samples/tree/master/ai-vectors/product-recommendation).
 
-General flow:
+The demo currently uses shoes as product and properties like color, material, weather resistance, and more as features that serve as input for the embedding. Instead of shoes, other items could be used, such as mutual funds or [ETFs](https://en.wikipedia.org/wiki/Exchange-traded_fund) with their many properties.
+
+
+**General flow**:
 - Setup, including Db2 database connection and creating a table
 - Generate fake product data
 - Generate vector embeddings for key features using a local ollama service
