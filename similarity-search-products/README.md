@@ -18,6 +18,12 @@ You need access to a Db2 instance and database with minimum version 12.1.2 (Db2 
 - Configure `.db2conn` to point to your Db2 instance and database
 - Configure `.env` (by copying over `.env-sample`)
 
+Configuration variables and defaults in `.env`:
+- EMBEDDING_MODEL='granite-embedding'  # Which embedding model to use
+- IMPORT_DATA=False                    # Generate or import the data? We generate by default
+- EXPORT_DATA=False                    # By default, no data is exported
+- KEEP_DATA=True                       # By default, the table is kept, so you could run your own queries against Db2
+
 Tested with by [running the notebook Python 3.13 in Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 
 # More on Db2 Vector / AI support
