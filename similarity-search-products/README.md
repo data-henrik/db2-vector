@@ -31,6 +31,12 @@ KEEP_DATA=True                       # By default, the table is kept, so you cou
 
 Tested with by [running the notebook Python 3.13 in Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
 
+# (Major) Components
+- [IBM Db2](https://www.ibm.com/products/db2)
+- [ollama](https://ollama.com/) with [IBM Granite](https://www.ibm.com/granite) embedding model
+- [Jupyter Notebook](https://jupyter.org/)
+- [JupySQL magic for Jupyter Notebooks](https://jupysql.ploomber.io/en/latest/quick-start.html)
+
 # More on Db2 Vector / AI support
 - https://github.com/shaikhq/db2ai for a curated list of blog posts, samples, talks, and more
 - https://github.com/shaikhq/db2-samples/tree/master/ai-vectors/product-recommendation for the idea and code that inspired this demo.
