@@ -28,8 +28,7 @@ IMPORT_DATA=False                    # Generate or import the data? We generate 
 EXPORT_DATA=False                    # By default, no data is exported
 KEEP_DATA=True                       # By default, the table is kept, so you could run your own queries against Db2
 ```
-
-Tested with by [running the notebook Python 3.13 in Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks).
+Tested with by [running the notebook Python 3.13 in Visual Studio Code](https://code.visualstudio.com/docs/datascience/jupyter-notebooks). I have used ollama local to my notebook. See [ollama custom client](https://github.com/ollama/ollama-python?tab=readme-ov-file#custom-client) for a way to configure access to a remote instance of ollama.
 
 # (Major) Components
 - [IBM Db2](https://www.ibm.com/products/db2)
