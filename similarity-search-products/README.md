@@ -12,6 +12,10 @@ The demo currently uses shoes as product and properties like color, material, we
 - Perform some queries utilizing [vector distance search](https://www.ibm.com/docs/en/db2/12.1.0?topic=functions-vector-distance) for semantic product recommendation (what other products are similar?)
 - Cleanup
 
+**My blog posts on this demo:**
+- [Setup instructions](https://data-henrik.de/2025/09/db2-vector-similarity-search-setup/)
+- [Demo description](https://data-henrik.de/2025/09/db2-vector-similarity-search/)
+
 # Setup
 You need access to a Db2 instance and database with minimum version 12.1.2 (Db2 12.1 modpack 2). This can be a local or remote server. I have tested it with Db2 12.1 Community Edition for Docker, see my blog post [Db2 12.1 Community Edition for Docker on Fedora](https://data-henrik.de/2025/01/db2-v12-community-edition-docker-linux/) for details and setup instructions.
 
