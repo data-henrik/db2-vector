@@ -36,6 +36,7 @@ Tested with by [running the notebook Python 3.13 in Visual Studio Code](https://
 - [Jupyter Notebook](https://jupyter.org/)
 - [JupySQL magic for Jupyter Notebooks](https://jupysql.ploomber.io/en/latest/quick-start.html)
 
+![Diagram showing the components Jupyter Notebook, ollama, and Db2](db2_vector.png)
 # More on Db2 Vector / AI support
 - https://github.com/shaikhq/db2ai for a curated list of blog posts, samples, talks, and more
 - https://github.com/shaikhq/db2-samples/tree/master/ai-vectors/product-recommendation for the idea and code that inspired this demo.
