@@ -4,6 +4,10 @@ Db2 sample code for the [VECTOR feature](https://www.ibm.com/docs/en/db2/12.1.0?
 Right now:
 - [use vector distance for searching similar products](similarity-search-products)
 
+**My blog posts on the above demo:**
+- [Setup instructions](https://data-henrik.de/2025/09/db2-vector-similarity-search-setup/)
+- [Demo description](https://data-henrik.de/2025/09/db2-vector-similarity-search/)
+
 
 # More on Db2 Vector / AI support
 - https://github.com/shaikhq/db2ai for a curated list of blog posts, samples, talks, and more
