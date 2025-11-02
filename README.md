@@ -5,8 +5,8 @@ Right now:
 - [use vector distance for searching similar products](similarity-search-products)
 
 **My blog posts on the above demo:**
-- [Setup instructions](https://data-henrik.de/2025/09/db2-vector-similarity-search-setup/)
-- [Demo description](https://data-henrik.de/2025/09/db2-vector-similarity-search/)
+- [Setup for Db2 vector for similarity search](https://data-henrik.de/2025/09/db2-vector-similarity-search-setup/)
+- [Db2 vector for similarity search](https://data-henrik.de/2025/09/db2-vector-similarity-search/)
 
 
 # More on Db2 Vector / AI support
