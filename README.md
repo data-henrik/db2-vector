@@ -8,6 +8,8 @@ Right now:
 - [Setup for Db2 vector for similarity search](https://data-henrik.de/2025/09/db2-vector-similarity-search-setup/)
 - [Db2 vector for similarity search](https://data-henrik.de/2025/09/db2-vector-similarity-search/)
 
+Additional blog posts on Db2 vector support:
+- [Db2 vector for GEO search](https://data-henrik.de/2025/11/db2-vector-geo-search/)
 
 # More on Db2 Vector / AI support
 - https://github.com/shaikhq/db2ai for a curated list of blog posts, samples, talks, and more
