@@ -1,6 +1,8 @@
 # Db2 vector for GEO search
 
-see my blog post [Db2 vector for GEO search](https://data-henrik.de/2025/11/db2-vector-geo-search/) for details
+See my blog post [Db2 vector for GEO search](https://data-henrik.de/2025/11/db2-vector-geo-search/) for details.
+
+Files to create the table, import data, fill the vector column, and query the data are available.
 
 ### Summary
 
@@ -17,7 +19,7 @@ You can use the Db2 VECTOR data type to store latitude/longitude information, th
   );
   ```
 
-- Insert data
+- Insert data (see files and blog post)
 - Search for nearby data
   ```SQL
   select name, 
@@ -32,5 +34,5 @@ You can use the Db2 VECTOR data type to store latitude/longitude information, th
   limit 20;
   ```
 
-It is possible to create additional helper functions, e.g., to compute the distance in kilometers, or for easy access to vector components.
+It is possible to create additional [helper functions](functions.sql), e.g., to compute the distance in kilometers, or for easy access to vector components.
 
