@@ -1,0 +1,1001 @@
+TICKER,ETF_NAME,FUND_FAMILY,ASSET_CLASS,CATEGORY,INVESTMENT_STYLE,MARKET_CAP,GEOGRAPHIC_FOCUS,SECTOR_FOCUS,RISK_LEVEL,EXPENSE_RATIO,AUM,DIVIDEND_YIELD,INCEPTION_YEAR,EXCHANGE
+SPY,State Street SPDR S&P 500 ETF Trust,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.5,698.27,1.06,7276,PCX
+VOO,Vanguard S&P 500 ETF,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.5,1512.9,1.12,1283,PCX
+IVV,iShares Core S&P 500 ETF,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.5,750.65,1.17,9583,PCX
+VTI,Vanguard Total Stock Market Index Fund ETF Shares,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.5,2088.92,1.11,9906,PCX
+SCHX,Schwab U.S. Large-Cap ETF,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.5,64.14,1.08,1257,PCX
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.5,82.42,1.1,1074,PCX
+SPLG,State Street SPDR Portfolio S&P 500 ETF,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.5,97.33,1.13,1131,PCX
+SPTM,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.5,12.24,1.12,9706,PCX
+QQQ,Invesco QQQ Trust,Invesco,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.5,395.03,0.46,9210,NGM
+VGT,Vanguard Information Technology Index Fund ETF Shares,Vanguard,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.5,126.51,0.42,1075,PCX
+XLK,State Street Technology Select Sector SPDR ETF,State Street Investment Management,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.5,87.69,0.56,9137,PCX
+FTEC,Fidelity MSCI Information Technology Index ETF,Fidelity Investments,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.5,15.96,0.44,1382,PCX
+IYW,iShares U.S. Technology ETF,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.5,19.39,0.15,9583,PCX
+SOXX,iShares Semiconductor ETF,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.5,21.68,0.49,9947,NGM
+SMH,VanEck Semiconductor ETF,VanEck,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.5,46.25,0.27,1324,NGM
+IGV,iShares Expanded Tech-Software Sector ETF,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.5,9.2,0.0,9947,BTS
+ARKK,ARK Innovation ETF,ARK ETF Trust,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.5,6.52,0.0,1414,BTS
+ARKW,ARK Next Generation Internet ETF,ARK ETF Trust,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.5,1.6,1.88,1412,BTS
+XLV,State Street Health Care Select Sector SPDR ETF,State Street Investment Management,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.5,43.12,1.55,9137,PCX
+VHT,Vanguard Health Care Index Fund ETF Shares,Vanguard,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.5,20.25,1.57,1075,PCX
+IYH,iShares U.S. Healthcare ETF,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.5,3.38,1.16,9607,PCX
+FHLC,Fidelity MSCI Health Care Index ETF,Fidelity Investments,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.5,3.01,1.36,1382,PCX
+IBB,iShares Biotechnology ETF,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.5,8.78,0.22,9813,NGM
+XBI,State Street SPDR S&P Biotech ETF,State Street Investment Management,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.5,8.06,0.35,1138,PCX
+IHI,iShares U.S. Medical Devices ETF,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.5,3.63,0.35,1146,PCX
+ARKG,ARK Genomic Revolution ETF,ARK ETF Trust,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.5,1.3,0.0,1414,BTS
+XLF,State Street Financial Select Sector SPDR ETF,State Street Investment Management,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.5,49.68,1.4,9137,PCX
+VFH,Vanguard Financials Index Fund ETF Shares,Vanguard,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.5,13.89,1.65,1075,PCX
+IYF,iShares U.S. Financials ETF,iShares,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.5,3.78,1.39,9589,PCX
+FNCL,Fidelity MSCI Financials Index ETF,Fidelity Investments,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.5,2.31,1.54,1382,PCX
+KBE,State Street SPDR S&P Bank ETF,State Street Investment Management,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.5,1.35,2.49,1131,PCX
+KRE,State Street SPDR S&P Regional Banking ETF,State Street Investment Management,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.5,3.92,2.38,1150,PCX
+IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,iShares,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.5,1.67,1.0,1146,PCX
+XLE,State Street Energy Select Sector SPDR ETF,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.5,37.88,2.62,9137,PCX
+VDE,Vanguard Energy Index Fund ETF Shares,Vanguard,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.5,11.32,2.48,1095,PCX
+IYE,iShares U.S. Energy ETF,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.5,1.44,2.29,9607,PCX
+FENY,Fidelity MSCI Energy Index ETF,Fidelity Investments,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.5,1.64,2.54,1382,PCX
+XOP,State Street SPDR S&P Oil & Gas Exploration & Production ETF,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.5,2.69,2.15,1150,PCX
+IEO,iShares U.S. Oil & Gas Exploration & Production ETF,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.5,0.52,2.15,1146,BTS
+PXE,Invesco Dynamic Energy Exploration & Production ETF,Invesco,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.5,0.08,2.49,1130,PCX
+ICLN,iShares Global Clean Energy ETF,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,2.12,1.47,1214,NGM
+TAN,Invesco Solar ETF,Invesco,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,1.57,0.0,1208,PCX
+XLY,State Street Consumer Discretionary Select Sector SPDR ETF,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,22.74,0.81,9137,PCX
+VCR,Vanguard Consumer Discretionary Index Fund ETF Shares,Vanguard,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,6.68,0.76,1075,PCX
+IYC,iShares US Consumer Discretionary ETF,iShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,1.3,0.51,9607,PCX
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Fidelity Investments,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,1.76,0.76,1382,PCX
+XRT,State Street SPDR S&P Retail ETF,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,0.68,0.76,1150,PCX
+RTH,VanEck Retail ETF,VanEck,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,0.27,0.92,1324,NGM
+XLP,State Street Consumer Staples Select Sector SPDR ETF,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,17.56,2.38,9137,PCX
+VDC,Vanguard Consumer Staples Index Fund ETF Shares,Vanguard,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,9.87,1.95,1075,PCX
+IYK,iShares US Consumer Staples ETF,iShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,1.34,2.37,9607,PCX
+FSTA,Fidelity MSCI Consumer Staples Index ETF,Fidelity Investments,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,1.53,2.02,1382,PCX
+KXI,iShares Global Consumer Staples ETF,iShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.5,1.05,2.02,1158,PCX
+XLI,State Street Industrial Select Sector SPDR ETF,State Street Investment Management,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.5,31.65,1.13,9137,PCX
+VIS,Vanguard Industrials Index Fund ETF Shares,Vanguard,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.5,8.13,0.88,1095,PCX
+IYJ,iShares U.S. Industrials ETF,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.5,2.4,0.76,9607,BTS
+FIDU,Fidelity MSCI Industrials Index ETF,Fidelity Investments,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.5,2.0,0.89,1382,PCX
+XAR,State Street SPDR S&P Aerospace & Defense ETF,State Street Investment Management,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.5,6.18,0.34,1317,PCX
+ITA,iShares U.S. Aerospace & Defense ETF,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.5,16.01,0.48,1146,BTS
+XLB,State Street Materials Select Sector SPDR ETF,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,7.25,1.63,9137,PCX
+VAW,Vanguard Materials Index Fund ETF Shares,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,4.73,1.32,1075,PCX
+IYM,iShares U.S. Basic Materials ETF,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,1.48,1.23,9607,PCX
+FMAT,Fidelity MSCI Materials Index ETF,Fidelity Investments,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,0.57,1.39,1382,PCX
+XME,State Street SPDR S&P Metals & Mining ETF,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,4.62,0.33,1150,PCX
+PICK,iShares MSCI Global Metals & Mining Producers ETF,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,2.06,2.3,1327,BTS
+XLU,State Street Utilities Select Sector SPDR ETF,State Street Investment Management,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.5,24.36,2.42,9137,PCX
+VPU,Vanguard Utilities Index Fund ETF Shares,Vanguard,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.5,11.03,2.45,1075,PCX
+IDU,iShares U.S. Utilities ETF,iShares,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.5,1.48,2.0,9607,PCX
+FUTY,Fidelity MSCI Utilities Index ETF,Fidelity Investments,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.5,2.48,2.4,1382,PCX
+VNQ,Vanguard Real Estate Index Fund ETF Shares,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.5,69.61,3.63,1095,PCX
+IYR,iShares U.S. Real Estate ETF,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.5,4.2,2.3,9607,PCX
+XLRE,State Street Real Estate Select Sector SPDR ETF,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.5,7.71,3.18,1444,PCX
+SCHH,Schwab U.S. REIT ETF,Schwab ETFs,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.5,9.74,2.76,1294,PCX
+RWR,State Street SPDR Dow Jones REIT ETF,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.5,1.69,3.44,9879,PCX
+FREL,Fidelity MSCI Real Estate Index ETF,Fidelity Investments,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.5,1.41,3.32,1422,PCX
+ICF,iShares Select U.S. REIT ETF,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.5,2.11,2.6,9807,BTS
+XLC,State Street Communication Services Select Sector SPDR ETF,State Street Investment Management,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.5,27.16,1.12,1529,PCX
+VOX,Vanguard Communication Services Index Fund ETF Shares,Vanguard,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.5,6.32,0.96,1095,PCX
+IYZ,iShares U.S. Telecommunications ETF,iShares,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.5,0.78,1.74,9589,BTS
+FCOM,Fidelity MSCI Communication Services Index ETF,Fidelity Investments,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.5,1.75,0.88,1382,PCX
+IJH,iShares Core S&P Mid-Cap ETF,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,111.66,1.25,9589,PCX
+MDY,State Street SPDR S&P MIDCAP 400 ETF Trust,State Street Investment Management,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,25.65,1.06,7995,PCX
+VO,Vanguard Mid-Cap Index Fund ETF Shares,Vanguard,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,210.34,1.44,1075,PCX
+SCHM,Schwab U.S. Mid-Cap ETF,Schwab ETFs,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,13.64,1.33,1294,PCX
+IWR,iShares Russell Mid-Cap ETF,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,49.6,1.2,9953,PCX
+IVOO,Vanguard S&P Mid-Cap 400 Index Fund ETF Shares,Vanguard,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,5.25,1.25,1283,PCX
+IWM,iShares Russell 2000 ETF,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.5,73.95,0.98,9589,PCX
+VB,Vanguard Small-Cap Index Fund ETF Shares,Vanguard,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.5,173.79,1.24,1075,PCX
+IJR,iShares Core S&P Small-Cap ETF,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.5,95.76,1.33,9589,PCX
+SCHA,Schwab U.S. Small-Cap ETF,Schwab ETFs,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.5,20.75,1.17,1257,PCX
+VTWO,Vanguard Russell 2000 Index Fund ETF Shares,Vanguard,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.5,15.18,1.18,1284,NGM
+SLYG,State Street SPDR S&P 600 Small Cap Growth ETF,State Street Investment Management,Equity,Diversified,Growth,Small-Cap,US,Diversified,High,0.5,4.17,0.79,9698,PCX
+SLYV,State Street SPDR S&P 600 Small Cap Value ETF,State Street Investment Management,Equity,Diversified,Value,Small-Cap,US,Diversified,High,0.5,4.33,1.87,9698,PCX
+EFA,iShares MSCI EAFE ETF,iShares,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.5,77.84,3.08,9977,PCX
+VEA,Vanguard FTSE Developed Markets Index Fund ETF Shares,Vanguard,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.5,307.32,2.86,1184,PCX
+IEFA,iShares Core MSCI EAFE ETF,iShares,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.5,182.59,3.23,1350,BTS
+SCHF,Schwab International Equity ETF,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.5,62.92,3.03,1257,PCX
+IXUS,iShares Core MSCI Total International Stock ETF,iShares,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.5,57.61,2.91,1350,NGM
+VXUS,Vanguard Total International Stock Index Fund ETF Shares,Vanguard,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.5,636.67,2.86,1296,NGM
+ACWI,iShares MSCI ACWI ETF,iShares,Equity,Diversified,Blend,Large-Cap,Global,Diversified,Medium,0.5,29.16,1.49,1206,NGM
+SCHXB6,Schwab U.S. Large-Cap ETF II,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.61,107.32,1.14,1993,PCX
+VPUY2,Vanguard Utilities Index Fund ETF Shares Core,Vanguard,Equity,Utilities,Blend,Small-Cap,US,Utilities,Medium,0.71,8.15,2.32,1993,PCX
+VAWA1,Vanguard Materials Index Fund ETF Shares II,Vanguard,Equity,Diversified,Growth,Small-Cap,US,Diversified,Medium,0.45,2.09,1.67,1993,PCX
+VDCC2,Vanguard Consumer Staples Index Fund ETF Shares Enhanced,Schwab,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.61,11.63,2.48,1993,PCX
+KXIX1,iShares Global Consumer Staples ETF Plus,iShares,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.63,1.69,2.13,1993,PCX
+IYRC8,iShares U.S. Real Estate ETF Select,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.61,3.34,2.46,2024,PCX
+SLYVZ3,State Street SPDR S&P 600 Small Cap Value ETF Plus,State Street Investment Management,Equity,Diversified,Blend,Mid-Cap,US,Diversified,High,0.72,3.25,2.33,2024,PCX
+IYFA3,iShares U.S. Financials ETF Core,iShares,Equity,Financial,Blend,Large-Cap,US,Financial,Medium,0.63,4.16,1.39,2024,PCX
+ICFD4,iShares Select U.S. REIT ETF Select,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.45,1.12,1.91,2024,BTS
+IEFAC9,iShares Core MSCI EAFE ETF II,Schwab,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.73,137.23,3.07,1993,BTS
+VBX1,Vanguard Small-Cap Index Fund ETF Shares II,Vanguard,Equity,Diversified,Growth,Multi-Cap,US,Diversified,High,0.64,206.15,1.22,1993,PCX
+ARKKB8,ARK Innovation ETF Core,WisdomTree,Equity,Diversified,Value,Mid-Cap,US,Diversified,Medium,0.55,12.24,0.0,1993,BTS
+FUTYX2,Fidelity MSCI Utilities Index ETF II,Fidelity Investments,Equity,Utilities,Value,Multi-Cap,US,Utilities,Medium,0.54,2.05,3.1,1993,PCX
+VEAC8,Vanguard FTSE Developed Markets Index Fund ETF Shares Select,Schwab,Equity,Diversified,Value,Mid-Cap,International,Diversified,Low,0.64,181.42,2.4,1993,PCX
+QQQC2,Invesco QQQ Trust II,Invesco,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.41,731.86,0.46,2024,NGM
+IYZC3,iShares U.S. Telecommunications ETF Plus,iShares,Equity,Telecom,Value,Multi-Cap,US,Telecom,Medium,0.68,0.28,1.37,2024,BTS
+EFAC6,iShares MSCI EAFE ETF Plus,iShares,Equity,Diversified,Value,Large-Cap,International,Diversified,Medium,0.56,75.38,3.75,2024,PCX
+KRED8,State Street SPDR S&P Regional Banking ETF Plus,State Street Investment Management,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.72,5.64,2.48,1993,PCX
+VOXC8,Vanguard Communication Services Index Fund ETF Shares Enhanced,Schwab,Equity,Telecom,Blend,Large-Cap,US,Telecom,Medium,0.62,7.06,0.8,1993,PCX
+VXUSZ2,Vanguard Total International Stock Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Small-Cap,International,Diversified,Medium,0.67,199.59,3.61,1993,NGM
+IJHZ6,iShares Core S&P Mid-Cap ETF Select,iShares,Equity,Diversified,Value,Mid-Cap,US,Diversified,High,0.59,56.55,1.6,2024,PCX
+VOXD7,Vanguard Communication Services Index Fund ETF Shares Core,Vanguard,Equity,Telecom,Growth,Small-Cap,US,Telecom,Medium,0.49,2.05,0.93,1993,PCX
+PICKY1,iShares MSCI Global Metals & Mining Producers ETF II,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,Medium,0.59,0.75,2.26,1993,BTS
+IEOB7,iShares U.S. Oil & Gas Exploration & Production ETF Select,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.74,0.95,2.15,1993,BTS
+IJHC7,iShares Core S&P Mid-Cap ETF Select,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,132.74,1.59,2024,PCX
+XLCY2,State Street Communication Services Select Sector SPDR ETF Core,State Street Investment Management,Equity,Telecom,Blend,Multi-Cap,US,Telecom,High,0.73,33.11,0.97,1993,PCX
+QQQD3,Invesco QQQ Trust Core,Invesco,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.4,233.96,0.51,2024,NGM
+IDUD1,iShares U.S. Utilities ETF Enhanced,First Trust,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.67,1.1,2.2,2024,PCX
+VOXD6,Vanguard Communication Services Index Fund ETF Shares Core,Vanguard,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.61,5.45,1.01,1993,PCX
+SCHHY1,Schwab U.S. REIT ETF Core,Schwab ETFs,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.75,18.35,3.37,1993,PCX
+IYRC1,iShares U.S. Real Estate ETF Select,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Low,0.67,6.39,2.8,2024,PCX
+XLYB8,State Street Consumer Discretionary Select Sector SPDR ETF II,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.69,37.74,0.81,2024,PCX
+IGVA1,iShares Expanded Tech-Software Sector ETF Plus,First Trust,Equity,Technology,Blend,Large-Cap,US,Technology,Medium,0.55,17.5,0.0,2024,BTS
+IYCB8,iShares US Consumer Discretionary ETF Enhanced,iShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.66,1.53,0.36,2024,PCX
+VDEY4,Vanguard Energy Index Fund ETF Shares II,SPDR,Equity,Energy,Blend,Small-Cap,US,Energy,Medium,0.68,9.5,2.74,1993,PCX
+IDUD4,iShares U.S. Utilities ETF Plus,iShares,Equity,Utilities,Blend,Large-Cap,US,Utilities,Medium,0.62,2.43,2.2,2024,PCX
+VXUSY9,Vanguard Total International Stock Index Fund ETF Shares Enhanced,WisdomTree,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.62,751.73,3.71,1993,NGM
+XBIC1,State Street SPDR S&P Biotech ETF Core,State Street Investment Management,Equity,Healthcare,Blend,Small-Cap,US,Healthcare,Very High,0.63,4.31,0.35,1993,PCX
+IWMC5,iShares Russell 2000 ETF Core,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.65,38.76,0.93,2024,PCX
+VTWOX2,Vanguard Russell 2000 Index Fund ETF Shares Core,Vanguard,Equity,Diversified,Value,Small-Cap,US,Diversified,High,0.63,17.83,0.89,1993,NGM
+VTIB6,Vanguard Total Stock Market Index Fund ETF Shares Select,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.65,4011.37,1.41,2024,PCX
+SLYGD1,State Street SPDR S&P 600 Small Cap Growth ETF Select,State Street Investment Management,Equity,Diversified,Growth,Small-Cap,US,Diversified,High,0.55,3.01,0.88,2024,PCX
+VPUX6,Vanguard Utilities Index Fund ETF Shares Enhanced,Vanguard,Equity,Utilities,Blend,Small-Cap,US,Utilities,Medium,0.62,10.54,2.63,1993,PCX
+VTIA8,Vanguard Total Stock Market Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Low,0.62,2739.77,1.34,2024,PCX
+VXUSY7,Vanguard Total International Stock Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Mid-Cap,International,Diversified,Medium,0.64,882.39,3.19,1993,NGM
+KBEY3,State Street SPDR S&P Bank ETF Core,SPDR,Equity,Financial,Blend,Large-Cap,US,Financial,Medium,0.64,0.67,2.32,1993,PCX
+ICLNX4,iShares Global Clean Energy ETF Core,WisdomTree,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Very High,0.43,0.98,1.06,1993,NGM
+KXIY9,iShares Global Consumer Staples ETF Core,VanEck,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.58,1.93,1.44,1993,PCX
+VOOB7,Vanguard S&P 500 ETF Select,Vanguard,Equity,Diversified,Value,Large-Cap,US,Diversified,Medium,0.47,705.48,1.03,1993,PCX
+XARZ8,State Street SPDR S&P Aerospace & Defense ETF Core,State Street Investment Management,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.44,7.26,0.36,1993,PCX
+ARKGY4,ARK Genomic Revolution ETF Select,ARK ETF Trust,Equity,Healthcare,Blend,Small-Cap,US,Healthcare,Low,0.61,2.59,0.0,1993,BTS
+IYZZ7,iShares U.S. Telecommunications ETF Select,iShares,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.67,0.52,2.25,2024,BTS
+VTID5,Vanguard Total Stock Market Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.67,2414.85,1.27,2024,PCX
+FRELC7,Fidelity MSCI Real Estate Index ETF Enhanced,Fidelity Investments,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.65,2.13,2.92,1993,PCX
+PICKX1,iShares MSCI Global Metals & Mining Producers ETF II,VanEck,Equity,Diversified,Value,Multi-Cap,US,Diversified,Medium,0.42,2.33,2.33,1993,BTS
+FIDUC7,Fidelity MSCI Industrials Index ETF Select,WisdomTree,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.63,1.96,1.05,1993,PCX
+XLPX1,State Street Consumer Staples Select Sector SPDR ETF Plus,ProShares,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,Low,0.5,32.59,2.33,2024,PCX
+VOXY4,Vanguard Communication Services Index Fund ETF Shares Select,Vanguard,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.56,4.15,0.94,1993,PCX
+IYEY9,iShares U.S. Energy ETF Enhanced,iShares,Equity,Energy,Blend,Mid-Cap,US,Energy,Medium,0.64,0.61,2.32,2024,PCX
+XLPB1,State Street Consumer Staples Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.55,14.23,2.0,2024,PCX
+FIDUZ9,Fidelity MSCI Industrials Index ETF Enhanced,Fidelity Investments,Equity,Industrial,Blend,Mid-Cap,US,Industrial,Low,0.64,2.83,0.96,1993,PCX
+SOXXX1,iShares Semiconductor ETF Enhanced,iShares,Equity,Technology,Value,Large-Cap,US,Technology,Medium,0.58,12.8,0.5,2024,NGM
+SMHA8,VanEck Semiconductor ETF Select,VanEck,Equity,Technology,Blend,Small-Cap,US,Technology,Medium,0.55,60.63,0.31,1993,NGM
+ICLNC5,iShares Global Clean Energy ETF Core,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.45,4.17,1.79,1993,NGM
+VOXD8,Vanguard Communication Services Index Fund ETF Shares Core,ARK,Equity,Telecom,Blend,Mid-Cap,US,Telecom,Medium,0.62,9.23,1.23,1993,PCX
+VTIC4,Vanguard Total Stock Market Index Fund ETF Shares Enhanced,ARK,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.43,2332.61,1.27,2024,PCX
+IYRC5,iShares U.S. Real Estate ETF Select,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.57,5.07,1.71,2024,PCX
+FSTAA6,Fidelity MSCI Consumer Staples Index ETF Plus,Global X,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.6,2.72,1.67,1993,PCX
+XLUA6,State Street Utilities Select Sector SPDR ETF Core,State Street Investment Management,Equity,Utilities,Blend,Mid-Cap,US,Utilities,Medium,0.65,45.33,2.36,2024,PCX
+VBD4,Vanguard Small-Cap Index Fund ETF Shares Core,VanEck,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.71,66.31,1.25,1993,PCX
+IGVB8,iShares Expanded Tech-Software Sector ETF II,Invesco,Equity,Technology,Blend,Multi-Cap,US,Technology,High,0.55,10.89,0.0,2024,BTS
+SMHD3,VanEck Semiconductor ETF Select,VanEck,Equity,Technology,Growth,Mid-Cap,US,Technology,Medium,0.52,32.74,0.26,1993,NGM
+EFAX4,iShares MSCI EAFE ETF Plus,Direxion,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.69,65.41,3.69,2024,PCX
+ARKWX2,ARK Next Generation Internet ETF II,ARK ETF Trust,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.54,2.78,2.08,1993,BTS
+IVOOX8,Vanguard S&P Mid-Cap 400 Index Fund ETF Shares Core,Vanguard,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Very High,0.73,6.1,1.12,1993,PCX
+MDYA8,State Street SPDR S&P MIDCAP 400 ETF Trust II,State Street Investment Management,Equity,Diversified,Blend,Small-Cap,US,Diversified,Medium,0.53,15.52,0.79,2024,PCX
+VISZ4,Vanguard Industrials Index Fund ETF Shares II,Vanguard,Equity,Industrial,Blend,Large-Cap,US,Industrial,Very High,0.5,9.0,0.93,1993,PCX
+IBBC5,iShares Biotechnology ETF Enhanced,iShares,Equity,Healthcare,Value,Small-Cap,US,Healthcare,Medium,0.42,6.74,0.17,2024,NGM
+FRELZ9,Fidelity MSCI Real Estate Index ETF Enhanced,Fidelity Investments,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.42,1.7,4.24,1993,PCX
+IYJA1,iShares U.S. Industrials ETF Select,iShares,Equity,Industrial,Value,Large-Cap,US,Industrial,Medium,0.65,4.37,0.77,2024,BTS
+VISZ4,Vanguard Industrials Index Fund ETF Shares Core,Direxion,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.42,11.83,0.85,1993,PCX
+VCRX3,Vanguard Consumer Discretionary Index Fund ETF Shares Core,Vanguard,Equity,Consumer Staples,Blend,Mid-Cap,US,Consumer Staples,Medium,0.62,13.05,0.67,1993,PCX
+IJRC2,iShares Core S&P Small-Cap ETF Plus,iShares,Equity,Diversified,Value,Multi-Cap,US,Diversified,High,0.45,28.87,1.53,2024,PCX
+ARKGD9,ARK Genomic Revolution ETF Plus,ARK ETF Trust,Equity,Healthcare,Blend,Small-Cap,US,Healthcare,Medium,0.47,2.03,0.0,1993,BTS
+VOC2,Vanguard Mid-Cap Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.45,284.9,1.04,1993,PCX
+PICKX6,iShares MSCI Global Metals & Mining Producers ETF Core,ARK,Equity,Diversified,Blend,Small-Cap,US,Diversified,Medium,0.5,1.45,2.43,1993,BTS
+VEAX7,Vanguard FTSE Developed Markets Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Blend,Mid-Cap,International,Diversified,Medium,0.48,134.21,3.29,1993,PCX
+IYKY3,iShares US Consumer Staples ETF Plus,iShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Low,0.62,1.18,2.06,2024,PCX
+XARZ5,State Street SPDR S&P Aerospace & Defense ETF Select,Vanguard,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.42,8.07,0.34,1993,PCX
+XLCX2,State Street Communication Services Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Telecom,Growth,Mid-Cap,US,Telecom,Medium,0.7,50.09,1.12,1993,PCX
+KREY3,State Street SPDR S&P Regional Banking ETF Select,State Street Investment Management,Equity,Financial,Blend,Multi-Cap,US,Financial,Very High,0.46,3.82,2.37,1993,PCX
+XOPX4,State Street SPDR S&P Oil & Gas Exploration & Production ETF Core,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Very High,0.54,5.07,2.6,1993,PCX
+IYFX6,iShares U.S. Financials ETF II,iShares,Equity,Financial,Growth,Multi-Cap,US,Financial,Medium,0.47,2.08,1.31,2024,PCX
+IYFY3,iShares U.S. Financials ETF II,Vanguard,Equity,Financial,Blend,Multi-Cap,US,Financial,Very High,0.52,3.83,1.01,2024,PCX
+IYJB2,iShares U.S. Industrials ETF II,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.68,2.68,0.89,2024,BTS
+IYJD8,iShares U.S. Industrials ETF Enhanced,iShares,Equity,Industrial,Blend,Mid-Cap,US,Industrial,Medium,0.6,3.83,0.69,2024,BTS
+PICKX1,iShares MSCI Global Metals & Mining Producers ETF Enhanced,iShares,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.7,1.68,1.75,1993,BTS
+PXEC8,Invesco Dynamic Energy Exploration & Production ETF Select,Invesco,Equity,Energy,Blend,Multi-Cap,US,Energy,High,0.57,0.15,2.56,1993,PCX
+IYJA7,iShares U.S. Industrials ETF Enhanced,iShares,Equity,Industrial,Blend,Large-Cap,US,Industrial,Medium,0.57,0.8,0.65,2024,BTS
+SLYGC1,State Street SPDR S&P 600 Small Cap Growth ETF II,State Street Investment Management,Equity,Diversified,Growth,Small-Cap,US,Diversified,High,0.4,4.7,0.97,2024,PCX
+SOXXB6,iShares Semiconductor ETF Enhanced,Direxion,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.5,32.73,0.54,2024,NGM
+IYWX5,iShares U.S. Technology ETF Plus,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.44,26.9,0.18,2024,PCX
+VPUZ1,Vanguard Utilities Index Fund ETF Shares Enhanced,Vanguard,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.57,7.43,2.51,1993,PCX
+SCHXY3,Schwab U.S. Large-Cap ETF Plus,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.41,127.71,0.82,1993,PCX
+VHTB7,Vanguard Health Care Index Fund ETF Shares II,Vanguard,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.5,35.03,1.2,1993,PCX
+SMHB2,VanEck Semiconductor ETF Enhanced,VanEck,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.56,77.8,0.3,1993,NGM
+SCHMD6,Schwab U.S. Mid-Cap ETF Enhanced,Schwab ETFs,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Very High,0.53,23.93,1.44,1993,PCX
+VFHA5,Vanguard Financials Index Fund ETF Shares Select,Vanguard,Equity,Financial,Blend,Multi-Cap,US,Financial,Low,0.62,21.16,1.68,1993,PCX
+IVVD8,iShares Core S&P 500 ETF II,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,High,0.62,337.25,1.34,2024,PCX
+ICFC5,iShares Select U.S. REIT ETF Enhanced,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.45,3.85,2.98,2024,BTS
+VDCA2,Vanguard Consumer Staples Index Fund ETF Shares Select,Vanguard,Equity,Consumer Staples,Blend,Mid-Cap,US,Consumer Staples,Medium,0.59,18.52,1.59,1993,PCX
+VDEZ5,Vanguard Energy Index Fund ETF Shares Select,Vanguard,Equity,Energy,Blend,Small-Cap,US,Energy,Medium,0.55,20.36,2.37,1993,PCX
+SPLGB7,State Street SPDR Portfolio S&P 500 ETF Core,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.57,42.21,0.86,1993,PCX
+VCRX1,Vanguard Consumer Discretionary Index Fund ETF Shares Select,Vanguard,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,Low,0.7,5.89,0.87,1993,PCX
+VAWY5,Vanguard Materials Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.75,4.43,0.98,1993,PCX
+ARKKD1,ARK Innovation ETF II,ARK ETF Trust,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Very High,0.46,10.19,0.0,1993,BTS
+FSTAB9,Fidelity MSCI Consumer Staples Index ETF Core,Vanguard,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,High,0.44,2.0,2.01,1993,PCX
+FIDUZ9,Fidelity MSCI Industrials Index ETF Core,ProShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.58,2.06,0.76,1993,PCX
+FHLCA8,Fidelity MSCI Health Care Index ETF Enhanced,iShares,Equity,Healthcare,Blend,Mid-Cap,US,Healthcare,Medium,0.72,4.14,1.0,1993,PCX
+XRTA3,State Street SPDR S&P Retail ETF Select,State Street Investment Management,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,Medium,0.44,0.95,0.86,1993,PCX
+IYRD2,iShares U.S. Real Estate ETF Plus,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.63,6.95,2.24,2024,PCX
+IYHZ4,iShares U.S. Healthcare ETF Enhanced,iShares,Equity,Healthcare,Value,Multi-Cap,US,Healthcare,Medium,0.69,3.91,1.41,2024,PCX
+VAWY8,Vanguard Materials Index Fund ETF Shares Core,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,1.95,1.28,1993,PCX
+IWMD7,iShares Russell 2000 ETF Plus,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,Very High,0.67,65.81,1.06,2024,PCX
+XLPA5,State Street Consumer Staples Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Consumer Staples,Growth,Large-Cap,US,Consumer Staples,Medium,0.64,13.06,2.93,2024,PCX
+IEOB4,iShares U.S. Oil & Gas Exploration & Production ETF II,iShares,Equity,Energy,Growth,Large-Cap,US,Energy,Medium,0.71,0.88,2.02,1993,BTS
+IWRD2,iShares Russell Mid-Cap ETF Enhanced,iShares,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.52,59.02,0.96,2024,PCX
+RWRB1,State Street SPDR Dow Jones REIT ETF II,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.51,2.22,3.32,2024,PCX
+IWMZ1,iShares Russell 2000 ETF Plus,iShares,Equity,Diversified,Value,Small-Cap,US,Diversified,High,0.52,36.45,1.14,2024,PCX
+PXEB6,Invesco Dynamic Energy Exploration & Production ETF II,Invesco,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.65,0.09,2.43,1993,PCX
+IJHA2,iShares Core S&P Mid-Cap ETF Plus,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.72,83.94,1.04,2024,PCX
+ICFY2,iShares Select U.S. REIT ETF Enhanced,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.64,1.95,3.33,2024,BTS
+QQQB1,Invesco QQQ Trust Enhanced,Invesco,Equity,Diversified,Growth,Large-Cap,US,Diversified,Low,0.42,384.14,0.44,2024,NGM
+IWRX1,iShares Russell Mid-Cap ETF II,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,81.2,0.93,2024,PCX
+VAWX7,Vanguard Materials Index Fund ETF Shares II,First Trust,Equity,Diversified,Growth,Multi-Cap,US,Diversified,Medium,0.49,4.35,1.33,1993,PCX
+VISY6,Vanguard Industrials Index Fund ETF Shares Core,Vanguard,Equity,Industrial,Value,Small-Cap,US,Industrial,Medium,0.44,16.07,0.71,1993,PCX
+VNQY8,Vanguard Real Estate Index Fund ETF Shares II,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.67,32.61,3.83,1993,PCX
+SCHMY9,Schwab U.S. Mid-Cap ETF II,ARK,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.6,17.98,1.54,1993,PCX
+IYRA6,iShares U.S. Real Estate ETF Select,Invesco,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.4,4.21,2.67,2024,PCX
+XLKY6,State Street Technology Select Sector SPDR ETF Select,State Street Investment Management,Equity,Technology,Blend,Large-Cap,US,Technology,Medium,0.53,141.09,0.61,2024,PCX
+RTHZ1,VanEck Retail ETF II,VanEck,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.65,0.39,0.81,1993,NGM
+IGVA6,iShares Expanded Tech-Software Sector ETF Core,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.57,9.86,0.0,2024,BTS
+SPLGD5,State Street SPDR Portfolio S&P 500 ETF Plus,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.74,140.1,1.32,1993,PCX
+XBIA9,State Street SPDR S&P Biotech ETF Select,State Street Investment Management,Equity,Healthcare,Value,Multi-Cap,US,Healthcare,Medium,0.64,2.67,0.41,1993,PCX
+FRELX8,Fidelity MSCI Real Estate Index ETF Enhanced,Fidelity Investments,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Low,0.71,2.21,3.27,1993,PCX
+FNCLA1,Fidelity MSCI Financials Index ETF Enhanced,Invesco,Equity,Financial,Blend,Multi-Cap,US,Financial,Very High,0.61,2.66,1.59,1993,PCX
+XLUD4,State Street Utilities Select Sector SPDR ETF Select,ARK,Equity,Utilities,Value,Small-Cap,US,Utilities,Medium,0.42,36.7,2.28,2024,PCX
+XLPY9,State Street Consumer Staples Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,High,0.46,6.88,2.88,2024,PCX
+VTIX2,Vanguard Total Stock Market Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.59,2045.96,1.23,2024,PCX
+XLYC9,State Street Consumer Discretionary Select Sector SPDR ETF Enhanced,Direxion,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.69,39.95,0.95,2024,PCX
+IHIC3,iShares U.S. Medical Devices ETF II,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.65,1.72,0.4,1993,PCX
+FCOMA2,Fidelity MSCI Communication Services Index ETF Core,Fidelity Investments,Equity,Telecom,Value,Multi-Cap,US,Telecom,Medium,0.73,2.11,0.9,1993,PCX
+SCHFX8,Schwab International Equity ETF II,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.53,61.68,3.35,1993,PCX
+VAWA2,Vanguard Materials Index Fund ETF Shares II,Direxion,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.6,9.19,1.13,1993,PCX
+ARKKD2,ARK Innovation ETF Plus,ProShares,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.7,8.24,0.0,1993,BTS
+EFAY2,iShares MSCI EAFE ETF Core,Invesco,Equity,Diversified,Blend,Mid-Cap,International,Diversified,Medium,0.42,47.71,3.09,2024,PCX
+SPLGX2,State Street SPDR Portfolio S&P 500 ETF II,Direxion,Equity,Diversified,Growth,Small-Cap,US,Diversified,Medium,0.54,139.71,1.08,1993,PCX
+IYZZ4,iShares U.S. Telecommunications ETF II,VanEck,Equity,Telecom,Blend,Large-Cap,US,Telecom,Medium,0.46,0.38,1.72,2024,BTS
+VOC5,Vanguard Mid-Cap Index Fund ETF Shares Enhanced,iShares,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.73,398.17,1.17,1993,PCX
+RTHX8,VanEck Retail ETF Core,VanEck,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.47,0.47,0.84,1993,NGM
+KREY9,State Street SPDR S&P Regional Banking ETF Core,Global X,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.48,5.33,2.09,1993,PCX
+IWMZ9,iShares Russell 2000 ETF Select,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.45,47.61,0.92,2024,PCX
+ICFB6,iShares Select U.S. REIT ETF Select,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.6,0.67,2.45,2024,BTS
+MDYY8,State Street SPDR S&P MIDCAP 400 ETF Trust Core,iShares,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Very High,0.75,8.32,0.99,2024,PCX
+XLREY6,State Street Real Estate Select Sector SPDR ETF II,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.43,15.28,2.29,1993,PCX
+XLIY1,State Street Industrial Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.61,21.12,1.29,2024,PCX
+ARKKB2,ARK Innovation ETF Enhanced,ARK ETF Trust,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.73,10.13,0.0,1993,BTS
+VFHY4,Vanguard Financials Index Fund ETF Shares Plus,Vanguard,Equity,Financial,Blend,Mid-Cap,US,Financial,Medium,0.45,12.94,2.08,1993,PCX
+IYHA7,iShares U.S. Healthcare ETF Plus,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.64,1.98,1.32,2024,PCX
+SMHA3,VanEck Semiconductor ETF II,VanEck,Equity,Technology,Blend,Mid-Cap,US,Technology,High,0.54,36.29,0.28,1993,NGM
+ITOTC4,iShares Core S&P Total U.S. Stock Market ETF II,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,Medium,0.71,144.53,0.83,1993,PCX
+IYFB1,iShares U.S. Financials ETF Select,iShares,Equity,Financial,Growth,Mid-Cap,US,Financial,Medium,0.43,5.18,1.26,2024,PCX
+IYEC1,iShares U.S. Energy ETF Core,iShares,Equity,Energy,Growth,Multi-Cap,US,Energy,Medium,0.68,1.29,1.69,2024,PCX
+ARKGX5,ARK Genomic Revolution ETF Select,ARK ETF Trust,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.48,1.1,0.0,1993,BTS
+VNQX5,Vanguard Real Estate Index Fund ETF Shares II,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Low,0.65,66.29,4.35,1993,PCX
+IVVB2,iShares Core S&P 500 ETF II,WisdomTree,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.73,1167.33,0.88,2024,PCX
+FCOMA3,Fidelity MSCI Communication Services Index ETF Select,Fidelity Investments,Equity,Telecom,Value,Multi-Cap,US,Telecom,Medium,0.61,0.62,0.75,1993,PCX
+XLCX4,State Street Communication Services Select Sector SPDR ETF II,State Street Investment Management,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.71,52.9,1.14,1993,PCX
+VISD8,Vanguard Industrials Index Fund ETF Shares Core,Vanguard,Equity,Industrial,Value,Multi-Cap,US,Industrial,Medium,0.64,8.8,0.67,1993,PCX
+VNQA3,Vanguard Real Estate Index Fund ETF Shares Select,First Trust,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.45,46.29,3.5,1993,PCX
+ACWID5,iShares MSCI ACWI ETF Plus,iShares,Equity,Diversified,Blend,Large-Cap,Global,Diversified,High,0.46,31.43,1.66,1993,NGM
+FHLCC2,Fidelity MSCI Health Care Index ETF Enhanced,Fidelity Investments,Equity,Healthcare,Blend,Small-Cap,US,Healthcare,Medium,0.73,5.82,1.17,1993,PCX
+XLKD7,State Street Technology Select Sector SPDR ETF Plus,Global X,Equity,Technology,Value,Multi-Cap,US,Technology,Very High,0.41,138.96,0.42,2024,PCX
+SPYZ7,State Street SPDR S&P 500 ETF Trust Core,State Street Investment Management,Equity,Diversified,Value,Large-Cap,US,Diversified,Medium,0.61,1320.2,0.75,2024,PCX
+FSTAD8,Fidelity MSCI Consumer Staples Index ETF II,Direxion,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.65,1.54,2.47,1993,PCX
+VPUA5,Vanguard Utilities Index Fund ETF Shares Plus,Invesco,Equity,Utilities,Blend,Multi-Cap,US,Utilities,High,0.5,17.09,2.71,1993,PCX
+FSTAB6,Fidelity MSCI Consumer Staples Index ETF Select,Fidelity Investments,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.62,0.86,1.98,1993,PCX
+VDCC1,Vanguard Consumer Staples Index Fund ETF Shares Core,Invesco,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.7,14.43,2.41,1993,PCX
+SCHXZ9,Schwab U.S. Large-Cap ETF Enhanced,Schwab ETFs,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.41,53.97,1.26,1993,PCX
+XLPY8,State Street Consumer Staples Select Sector SPDR ETF Enhanced,First Trust,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Medium,0.49,22.3,2.86,2024,PCX
+SCHFC8,Schwab International Equity ETF Core,Schwab ETFs,Equity,Diversified,Value,Large-Cap,International,Diversified,High,0.58,58.13,2.41,1993,PCX
+SCHFZ8,Schwab International Equity ETF Core,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.71,27.12,3.89,1993,PCX
+VDCD1,Vanguard Consumer Staples Index Fund ETF Shares Core,iShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Low,0.55,18.98,2.46,1993,PCX
+IYWX4,iShares U.S. Technology ETF Core,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.58,20.23,0.17,2024,PCX
+IAID1,iShares U.S. Broker-Dealers & Securities Exchanges ETF Enhanced,iShares,Equity,Financial,Growth,Multi-Cap,US,Financial,Medium,0.59,1.12,0.86,1993,PCX
+RWRZ1,State Street SPDR Dow Jones REIT ETF Select,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.44,2.22,2.69,2024,PCX
+ICLND9,iShares Global Clean Energy ETF II,iShares,Equity,Diversified,Value,Multi-Cap,US,Diversified,Medium,0.66,3.74,1.06,1993,NGM
+XLEB1,State Street Energy Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Energy,Value,Small-Cap,US,Energy,Medium,0.56,14.39,2.5,2024,PCX
+VEAC9,Vanguard FTSE Developed Markets Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.52,534.82,2.74,1993,PCX
+MDYY5,State Street SPDR S&P MIDCAP 400 ETF Trust II,State Street Investment Management,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.43,29.01,0.96,2024,PCX
+XBIA9,State Street SPDR S&P Biotech ETF Enhanced,State Street Investment Management,Equity,Healthcare,Blend,Mid-Cap,US,Healthcare,Very High,0.7,7.57,0.44,1993,PCX
+FIDUB1,Fidelity MSCI Industrials Index ETF Enhanced,Fidelity Investments,Equity,Industrial,Blend,Small-Cap,US,Industrial,Medium,0.67,3.79,1.14,1993,PCX
+KREZ8,State Street SPDR S&P Regional Banking ETF II,State Street Investment Management,Equity,Financial,Growth,Multi-Cap,US,Financial,Medium,0.55,4.41,2.1,1993,PCX
+KXIX5,iShares Global Consumer Staples ETF II,iShares,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Very High,0.49,1.28,2.1,1993,PCX
+RWRC9,State Street SPDR Dow Jones REIT ETF Core,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.48,1.87,3.76,2024,PCX
+IGVX6,iShares Expanded Tech-Software Sector ETF Select,iShares,Equity,Technology,Blend,Large-Cap,US,Technology,Medium,0.67,17.94,0.0,2024,BTS
+IYWB6,iShares U.S. Technology ETF Select,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,High,0.49,37.64,0.17,2024,PCX
+XMEX3,State Street SPDR S&P Metals & Mining ETF Select,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.72,4.58,0.26,1993,PCX
+IJHX9,iShares Core S&P Mid-Cap ETF Enhanced,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.57,186.64,1.32,2024,PCX
+VXUSY7,Vanguard Total International Stock Index Fund ETF Shares Select,Vanguard,Equity,Diversified,Value,Multi-Cap,International,Diversified,Medium,0.51,1106.29,3.11,1993,NGM
+IYCA6,iShares US Consumer Discretionary ETF Core,iShares,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Medium,0.48,2.06,0.51,2024,PCX
+XLED6,State Street Energy Select Sector SPDR ETF II,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.65,64.33,2.71,2024,PCX
+XLCD7,State Street Communication Services Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Telecom,Growth,Multi-Cap,US,Telecom,Medium,0.51,24.28,1.36,1993,PCX
+VCRD2,Vanguard Consumer Discretionary Index Fund ETF Shares Select,Vanguard,Equity,Consumer Staples,Growth,Small-Cap,US,Consumer Staples,Medium,0.63,6.39,0.71,1993,PCX
+XLBX1,State Street Materials Select Sector SPDR ETF II,WisdomTree,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.61,12.07,1.43,2024,PCX
+ITAY9,iShares U.S. Aerospace & Defense ETF Select,ARK,Equity,Industrial,Blend,Mid-Cap,US,Industrial,Medium,0.71,18.24,0.48,1993,BTS
+IVVB6,iShares Core S&P 500 ETF II,ARK,Equity,Diversified,Blend,Large-Cap,US,Diversified,High,0.62,860.59,1.35,2024,PCX
+IXUSX7,iShares Core MSCI Total International Stock ETF Core,VanEck,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.49,58.9,2.64,1993,NGM
+IYZY1,iShares U.S. Telecommunications ETF II,iShares,Equity,Telecom,Blend,Small-Cap,US,Telecom,Medium,0.4,1.03,1.56,2024,BTS
+ARKKC5,ARK Innovation ETF Select,ARK,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.42,4.55,0.0,1993,BTS
+XLYX8,State Street Consumer Discretionary Select Sector SPDR ETF Select,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.55,21.46,0.7,2024,PCX
+IWMD5,iShares Russell 2000 ETF Core,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,Low,0.47,56.95,1.03,2024,PCX
+ITOTX8,iShares Core S&P Total U.S. Stock Market ETF II,VanEck,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.5,95.46,1.04,1993,PCX
+VOXC5,Vanguard Communication Services Index Fund ETF Shares Core,Global X,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.63,7.5,0.77,1993,PCX
+IYKA8,iShares US Consumer Staples ETF Plus,iShares,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Low,0.42,0.67,2.19,2024,PCX
+RTHY5,VanEck Retail ETF Core,VanEck,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.51,0.52,0.74,1993,NGM
+IYWZ8,iShares U.S. Technology ETF Enhanced,iShares,Equity,Technology,Value,Large-Cap,US,Technology,Medium,0.69,20.47,0.16,2024,PCX
+VEAZ4,Vanguard FTSE Developed Markets Index Fund ETF Shares Select,Vanguard,Equity,Diversified,Blend,Large-Cap,International,Diversified,Low,0.61,614.47,3.22,1993,PCX
+XARC6,State Street SPDR S&P Aerospace & Defense ETF Core,State Street Investment Management,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Very High,0.66,10.7,0.3,1993,PCX
+IYMC5,iShares U.S. Basic Materials ETF Enhanced,iShares,Equity,Diversified,Value,Multi-Cap,US,Diversified,Medium,0.66,2.1,0.88,2024,PCX
+VEAA7,Vanguard FTSE Developed Markets Index Fund ETF Shares Plus,SPDR,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.48,310.46,2.36,1993,PCX
+RWRY3,State Street SPDR Dow Jones REIT ETF Enhanced,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Very High,0.56,3.0,3.61,2024,PCX
+XBIX6,State Street SPDR S&P Biotech ETF Plus,Direxion,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.69,14.79,0.37,1993,PCX
+FRELC7,Fidelity MSCI Real Estate Index ETF Plus,Fidelity Investments,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.43,1.24,3.8,1993,PCX
+ICLNA5,iShares Global Clean Energy ETF Plus,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.51,1.11,1.6,1993,NGM
+FCOMC2,Fidelity MSCI Communication Services Index ETF Plus,Fidelity Investments,Equity,Telecom,Blend,Small-Cap,US,Telecom,Medium,0.41,1.02,0.72,1993,PCX
+FTECX8,Fidelity MSCI Information Technology Index ETF Plus,Fidelity Investments,Equity,Technology,Blend,Small-Cap,US,Technology,Medium,0.67,10.09,0.37,1993,PCX
+KXIA2,iShares Global Consumer Staples ETF II,ProShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,High,0.72,1.15,1.42,1993,PCX
+IYKC9,iShares US Consumer Staples ETF II,iShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.61,1.3,2.25,2024,PCX
+VEAY6,Vanguard FTSE Developed Markets Index Fund ETF Shares Core,Vanguard,Equity,Diversified,Blend,Large-Cap,International,Diversified,High,0.48,302.15,2.81,1993,PCX
+XMED3,State Street SPDR S&P Metals & Mining ETF Enhanced,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.67,2.23,0.33,1993,PCX
+KREY4,State Street SPDR S&P Regional Banking ETF II,ARK,Equity,Financial,Growth,Mid-Cap,US,Financial,Medium,0.46,4.12,1.79,1993,PCX
+ARKWA3,ARK Next Generation Internet ETF Plus,ARK ETF Trust,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.64,0.73,1.59,1993,BTS
+VDCB4,Vanguard Consumer Staples Index Fund ETF Shares Plus,Vanguard,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Medium,0.46,10.36,1.63,1993,PCX
+XLIZ3,State Street Industrial Select Sector SPDR ETF Plus,Global X,Equity,Industrial,Blend,Mid-Cap,US,Industrial,Medium,0.62,37.77,0.89,2024,PCX
+ARKGA3,ARK Genomic Revolution ETF Select,ARK ETF Trust,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.67,0.56,0.0,1993,BTS
+IAID6,iShares U.S. Broker-Dealers & Securities Exchanges ETF Core,iShares,Equity,Financial,Growth,Multi-Cap,US,Financial,Medium,0.64,1.95,0.98,1993,PCX
+VPUD3,Vanguard Utilities Index Fund ETF Shares Plus,Vanguard,Equity,Utilities,Blend,Large-Cap,US,Utilities,Medium,0.72,14.8,2.35,1993,PCX
+ARKKC9,ARK Innovation ETF II,ARK ETF Trust,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.46,4.16,0.0,1993,BTS
+IEFAC2,iShares Core MSCI EAFE ETF Core,Schwab,Equity,Diversified,Blend,Small-Cap,International,Diversified,Medium,0.46,231.26,3.79,1993,BTS
+XLBD8,State Street Materials Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.71,11.85,1.33,2024,PCX
+XLBC4,State Street Materials Select Sector SPDR ETF Select,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.63,5.8,1.52,2024,PCX
+VDEZ4,Vanguard Energy Index Fund ETF Shares Plus,Vanguard,Equity,Energy,Blend,Small-Cap,US,Energy,Very High,0.67,19.33,2.85,1993,PCX
+XLIA7,State Street Industrial Select Sector SPDR ETF II,State Street Investment Management,Equity,Industrial,Value,Large-Cap,US,Industrial,Medium,0.57,15.94,0.8,2024,PCX
+KXID8,iShares Global Consumer Staples ETF Plus,iShares,Equity,Consumer Staples,Blend,Mid-Cap,US,Consumer Staples,Medium,0.45,0.56,1.55,1993,PCX
+SCHHC5,Schwab U.S. REIT ETF Enhanced,Schwab ETFs,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.69,4.57,2.69,1993,PCX
+FCOMC7,Fidelity MSCI Communication Services Index ETF II,Fidelity Investments,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.59,1.1,0.83,1993,PCX
+FENYA8,Fidelity MSCI Energy Index ETF II,Fidelity Investments,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.44,2.71,2.76,1993,PCX
+FIDUX9,Fidelity MSCI Industrials Index ETF Enhanced,Fidelity Investments,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.71,0.71,0.91,1993,PCX
+FIDUY4,Fidelity MSCI Industrials Index ETF II,Vanguard,Equity,Industrial,Value,Multi-Cap,US,Industrial,Medium,0.42,3.85,0.66,1993,PCX
+VCRB9,Vanguard Consumer Discretionary Index Fund ETF Shares II,First Trust,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.55,9.05,0.7,1993,PCX
+FSTAD3,Fidelity MSCI Consumer Staples Index ETF II,Fidelity Investments,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.74,1.64,2.37,1993,PCX
+VPUY5,Vanguard Utilities Index Fund ETF Shares Enhanced,Invesco,Equity,Utilities,Blend,Multi-Cap,US,Utilities,High,0.75,18.33,2.01,1993,PCX
+KXIZ1,iShares Global Consumer Staples ETF Enhanced,iShares,Equity,Consumer Staples,Value,Mid-Cap,US,Consumer Staples,Low,0.45,1.92,2.17,1993,PCX
+VDED9,Vanguard Energy Index Fund ETF Shares Select,Vanguard,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.72,15.09,2.45,1993,PCX
+VCRZ2,Vanguard Consumer Discretionary Index Fund ETF Shares Plus,ARK,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,High,0.49,12.48,0.61,1993,PCX
+FDISY4,Fidelity MSCI Consumer Discretionary Index ETF Core,Fidelity Investments,Equity,Consumer Staples,Growth,Small-Cap,US,Consumer Staples,Medium,0.66,1.64,0.74,1993,PCX
+VOA8,Vanguard Mid-Cap Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.46,216.34,1.42,1993,PCX
+VOZ5,Vanguard Mid-Cap Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Low,0.73,265.04,1.73,1993,PCX
+IGVB4,iShares Expanded Tech-Software Sector ETF Select,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.4,2.98,0.0,2024,BTS
+FENYA8,Fidelity MSCI Energy Index ETF Enhanced,Fidelity Investments,Equity,Energy,Value,Multi-Cap,US,Energy,Low,0.46,1.05,2.47,1993,PCX
+XLVX8,State Street Health Care Select Sector SPDR ETF Plus,Vanguard,Equity,Healthcare,Blend,Large-Cap,US,Healthcare,Medium,0.62,33.43,1.27,2024,PCX
+KXIZ7,iShares Global Consumer Staples ETF Plus,VanEck,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.61,0.72,1.91,1993,PCX
+ICLNB8,iShares Global Clean Energy ETF Enhanced,Global X,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.6,1.75,1.56,1993,NGM
+ITOTX9,iShares Core S&P Total U.S. Stock Market ETF II,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Low,0.42,49.96,1.03,1993,PCX
+ICFA3,iShares Select U.S. REIT ETF Select,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.73,2.57,2.42,2024,BTS
+KXID8,iShares Global Consumer Staples ETF Select,iShares,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,High,0.48,1.32,2.55,1993,PCX
+XLCA4,State Street Communication Services Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.55,51.6,0.98,1993,PCX
+VNQC9,Vanguard Real Estate Index Fund ETF Shares Select,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.73,137.74,3.49,1993,PCX
+SPLGY8,State Street SPDR Portfolio S&P 500 ETF Core,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.6,86.52,0.88,1993,PCX
+FENYX9,Fidelity MSCI Energy Index ETF Plus,Fidelity Investments,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.43,1.0,2.56,1993,PCX
+XLEC6,State Street Energy Select Sector SPDR ETF Enhanced,Global X,Equity,Energy,Growth,Multi-Cap,US,Energy,Medium,0.52,12.77,1.85,2024,PCX
+ICFY4,iShares Select U.S. REIT ETF Plus,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.42,0.78,2.05,2024,BTS
+VDCC2,Vanguard Consumer Staples Index Fund ETF Shares II,Vanguard,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,Medium,0.57,19.17,2.5,1993,PCX
+SCHFA4,Schwab International Equity ETF Core,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.64,47.84,2.62,1993,PCX
+VTWOB5,Vanguard Russell 2000 Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Value,Small-Cap,US,Diversified,Medium,0.5,18.96,1.38,1993,NGM
+IYKC4,iShares US Consumer Staples ETF Plus,WisdomTree,Equity,Consumer Staples,Blend,Mid-Cap,US,Consumer Staples,Medium,0.54,2.05,1.88,2024,PCX
+ARKWB1,ARK Next Generation Internet ETF II,ARK ETF Trust,Equity,Diversified,Value,Large-Cap,US,Diversified,Medium,0.64,2.43,2.02,1993,BTS
+ICFC2,iShares Select U.S. REIT ETF Plus,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.73,0.72,2.23,2024,BTS
+IEOA5,iShares U.S. Oil & Gas Exploration & Production ETF Select,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Low,0.48,0.75,2.56,1993,BTS
+XLUZ7,State Street Utilities Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Utilities,Value,Multi-Cap,US,Utilities,Medium,0.69,32.65,2.7,2024,PCX
+ARKKX9,ARK Innovation ETF Plus,Invesco,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Very High,0.72,11.59,0.0,1993,BTS
+SCHAY8,Schwab U.S. Small-Cap ETF Enhanced,Schwab ETFs,Equity,Diversified,Blend,Mid-Cap,US,Diversified,High,0.41,28.16,1.1,1993,PCX
+ARKWB6,ARK Next Generation Internet ETF Plus,ProShares,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.44,1.15,2.29,1993,BTS
+VISC6,Vanguard Industrials Index Fund ETF Shares II,Vanguard,Equity,Industrial,Value,Multi-Cap,US,Industrial,Medium,0.62,4.63,0.99,1993,PCX
+XLVD4,State Street Health Care Select Sector SPDR ETF Select,First Trust,Equity,Healthcare,Growth,Large-Cap,US,Healthcare,Medium,0.56,84.27,1.35,2024,PCX
+ICLNA1,iShares Global Clean Energy ETF Core,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,High,0.53,0.69,1.57,1993,NGM
+IYWB8,iShares U.S. Technology ETF Enhanced,Schwab,Equity,Technology,Growth,Multi-Cap,US,Technology,Medium,0.41,35.0,0.15,2024,PCX
+FHLCX2,Fidelity MSCI Health Care Index ETF Core,Fidelity Investments,Equity,Healthcare,Value,Mid-Cap,US,Healthcare,Medium,0.43,2.4,1.72,1993,PCX
+VPUC3,Vanguard Utilities Index Fund ETF Shares II,Vanguard,Equity,Utilities,Value,Multi-Cap,US,Utilities,Medium,0.51,7.02,2.99,1993,PCX
+ARKWB9,ARK Next Generation Internet ETF Enhanced,ARK ETF Trust,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.64,2.58,2.42,1993,BTS
+VOXY2,Vanguard Communication Services Index Fund ETF Shares Core,ProShares,Equity,Telecom,Value,Multi-Cap,US,Telecom,Medium,0.55,11.41,0.97,1993,PCX
+IXUSB5,iShares Core MSCI Total International Stock ETF Plus,SPDR,Equity,Diversified,Growth,Large-Cap,International,Diversified,Medium,0.61,69.68,2.38,1993,NGM
+XMED1,State Street SPDR S&P Metals & Mining ETF Enhanced,State Street Investment Management,Equity,Diversified,Blend,Small-Cap,US,Diversified,Medium,0.47,4.55,0.28,1993,PCX
+SPLGB3,State Street SPDR Portfolio S&P 500 ETF II,ProShares,Equity,Diversified,Value,Mid-Cap,US,Diversified,Medium,0.72,40.3,1.42,1993,PCX
+FCOMB6,Fidelity MSCI Communication Services Index ETF Select,Direxion,Equity,Telecom,Value,Multi-Cap,US,Telecom,Medium,0.45,2.4,0.63,1993,PCX
+IYMX3,iShares U.S. Basic Materials ETF II,Invesco,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Low,0.43,0.87,1.51,2024,PCX
+SLYVA6,State Street SPDR S&P 600 Small Cap Value ETF Enhanced,State Street Investment Management,Equity,Diversified,Value,Multi-Cap,US,Diversified,High,0.75,4.04,1.87,2024,PCX
+PICKZ1,iShares MSCI Global Metals & Mining Producers ETF II,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,High,0.67,3.57,2.79,1993,BTS
+VTIB2,Vanguard Total Stock Market Index Fund ETF Shares Core,Vanguard,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.73,1138.19,1.16,2024,PCX
+VDEY3,Vanguard Energy Index Fund ETF Shares Select,Vanguard,Equity,Energy,Blend,Large-Cap,US,Energy,High,0.58,10.74,2.39,1993,PCX
+FMATY5,Fidelity MSCI Materials Index ETF Enhanced,Fidelity Investments,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.52,0.85,1.0,1993,PCX
+KREC8,State Street SPDR S&P Regional Banking ETF Enhanced,State Street Investment Management,Equity,Financial,Value,Multi-Cap,US,Financial,Medium,0.63,3.31,2.18,1993,PCX
+KBED8,State Street SPDR S&P Bank ETF II,ARK,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.47,2.02,2.91,1993,PCX
+VHTA7,Vanguard Health Care Index Fund ETF Shares Core,Vanguard,Equity,Healthcare,Growth,Mid-Cap,US,Healthcare,Medium,0.61,26.4,1.3,1993,PCX
+XLIB7,State Street Industrial Select Sector SPDR ETF II,ARK,Equity,Industrial,Value,Multi-Cap,US,Industrial,Medium,0.46,30.08,1.32,2024,PCX
+IDUY9,iShares U.S. Utilities ETF Plus,Invesco,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.43,2.86,1.48,2024,PCX
+SLYGD5,State Street SPDR S&P 600 Small Cap Growth ETF Select,State Street Investment Management,Equity,Diversified,Growth,Small-Cap,US,Diversified,Medium,0.67,5.56,0.67,2024,PCX
+XLIZ9,State Street Industrial Select Sector SPDR ETF Select,State Street Investment Management,Equity,Industrial,Blend,Small-Cap,US,Industrial,Medium,0.54,62.33,1.14,2024,PCX
+IYRX6,iShares U.S. Real Estate ETF Enhanced,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.56,5.99,1.79,2024,PCX
+VOXC8,Vanguard Communication Services Index Fund ETF Shares Enhanced,Vanguard,Equity,Telecom,Growth,Small-Cap,US,Telecom,Medium,0.47,12.0,0.89,1993,PCX
+PXEX2,Invesco Dynamic Energy Exploration & Production ETF Enhanced,Invesco,Equity,Energy,Blend,Multi-Cap,US,Energy,Very High,0.53,0.07,2.35,1993,PCX
+XLVY3,State Street Health Care Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Healthcare,Growth,Multi-Cap,US,Healthcare,Medium,0.65,18.32,1.8,2024,PCX
+ARKGY2,ARK Genomic Revolution ETF Select,ARK ETF Trust,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.54,0.51,0.0,1993,BTS
+SCHFB9,Schwab International Equity ETF Plus,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.64,30.8,3.83,1993,PCX
+XLEA1,State Street Energy Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Energy,Growth,Small-Cap,US,Energy,Medium,0.58,43.37,2.38,2024,PCX
+EFAB6,iShares MSCI EAFE ETF Core,Invesco,Equity,Diversified,Value,Small-Cap,International,Diversified,Medium,0.6,125.61,3.81,2024,PCX
+SOXXA3,iShares Semiconductor ETF Enhanced,iShares,Equity,Technology,Blend,Large-Cap,US,Technology,High,0.5,31.66,0.55,2024,NGM
+FUTYD5,Fidelity MSCI Utilities Index ETF Plus,Fidelity Investments,Equity,Utilities,Blend,Small-Cap,US,Utilities,Low,0.49,1.22,3.11,1993,PCX
+IEOD7,iShares U.S. Oil & Gas Exploration & Production ETF Select,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.58,0.58,2.61,1993,BTS
+ICFZ9,iShares Select U.S. REIT ETF Select,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.42,3.19,3.1,2024,BTS
+QQQA6,Invesco QQQ Trust II,Invesco,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.47,642.51,0.52,2024,NGM
+SPYB7,State Street SPDR S&P 500 ETF Trust Plus,State Street Investment Management,Equity,Diversified,Value,Large-Cap,US,Diversified,Medium,0.55,976.35,0.9,2024,PCX
+FUTYD1,Fidelity MSCI Utilities Index ETF Select,Fidelity Investments,Equity,Utilities,Blend,Large-Cap,US,Utilities,Medium,0.53,4.81,2.98,1993,PCX
+VBC4,Vanguard Small-Cap Index Fund ETF Shares Core,Vanguard,Equity,Diversified,Value,Large-Cap,US,Diversified,High,0.49,305.14,1.3,1993,PCX
+VAWA5,Vanguard Materials Index Fund ETF Shares Select,Vanguard,Equity,Diversified,Value,Small-Cap,US,Diversified,Medium,0.62,8.79,1.07,1993,PCX
+ARKGD2,ARK Genomic Revolution ETF Core,WisdomTree,Equity,Healthcare,Value,Multi-Cap,US,Healthcare,Medium,0.64,1.69,0.0,1993,BTS
+TAND4,Invesco Solar ETF Core,Invesco,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.73,2.41,0.0,1993,PCX
+IYWD8,iShares U.S. Technology ETF Plus,VanEck,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.68,28.27,0.17,2024,PCX
+XLBY5,State Street Materials Select Sector SPDR ETF Select,First Trust,Equity,Diversified,Growth,Multi-Cap,US,Diversified,Low,0.7,14.18,1.75,2024,PCX
+XLKY5,State Street Technology Select Sector SPDR ETF Select,State Street Investment Management,Equity,Technology,Blend,Small-Cap,US,Technology,Medium,0.45,106.8,0.61,2024,PCX
+XLKY4,State Street Technology Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Technology,Growth,Multi-Cap,US,Technology,Medium,0.68,52.08,0.59,2024,PCX
+IGVZ3,iShares Expanded Tech-Software Sector ETF Enhanced,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.7,9.82,0.0,2024,BTS
+VTIB6,Vanguard Total Stock Market Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.57,1481.22,0.84,2024,PCX
+VAWD2,Vanguard Materials Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Blend,Small-Cap,US,Diversified,Medium,0.45,3.28,1.44,1993,PCX
+VOOD4,Vanguard S&P 500 ETF Select,Vanguard,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.46,1332.39,1.42,1993,PCX
+XLEZ9,State Street Energy Select Sector SPDR ETF Select,State Street Investment Management,Equity,Energy,Growth,Multi-Cap,US,Energy,Medium,0.69,75.07,2.65,2024,PCX
+VPUA7,Vanguard Utilities Index Fund ETF Shares II,Vanguard,Equity,Utilities,Growth,Small-Cap,US,Utilities,High,0.42,18.77,2.58,1993,PCX
+IAIX3,iShares U.S. Broker-Dealers & Securities Exchanges ETF II,iShares,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.45,2.08,0.87,1993,PCX
+VISZ8,Vanguard Industrials Index Fund ETF Shares Enhanced,Vanguard,Equity,Industrial,Growth,Multi-Cap,US,Industrial,Medium,0.6,14.99,0.68,1993,PCX
+FTECC1,Fidelity MSCI Information Technology Index ETF Core,Fidelity Investments,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.47,10.88,0.42,1993,PCX
+VAWY2,Vanguard Materials Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.66,2.75,1.41,1993,PCX
+IYRY1,iShares U.S. Real Estate ETF Plus,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.75,7.41,2.73,2024,PCX
+SPTMB8,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF Core,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.6,12.6,1.39,2024,PCX
+VOXD2,Vanguard Communication Services Index Fund ETF Shares Select,Invesco,Equity,Telecom,Blend,Mid-Cap,US,Telecom,Medium,0.47,3.28,0.91,1993,PCX
+ITOTA8,iShares Core S&P Total U.S. Stock Market ETF Enhanced,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.64,56.21,1.13,1993,PCX
+VCRC4,Vanguard Consumer Discretionary Index Fund ETF Shares Enhanced,First Trust,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.68,5.75,0.7,1993,PCX
+VISC5,Vanguard Industrials Index Fund ETF Shares Core,Vanguard,Equity,Industrial,Blend,Large-Cap,US,Industrial,Medium,0.74,15.65,0.91,1993,PCX
+FTECB4,Fidelity MSCI Information Technology Index ETF Plus,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.5,9.73,0.34,1993,PCX
+XLVC1,State Street Health Care Select Sector SPDR ETF Core,Vanguard,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.59,25.93,1.98,2024,PCX
+FUTYA6,Fidelity MSCI Utilities Index ETF Enhanced,Fidelity Investments,Equity,Utilities,Growth,Multi-Cap,US,Utilities,Medium,0.71,1.91,2.65,1993,PCX
+ARKWC9,ARK Next Generation Internet ETF Plus,ARK ETF Trust,Equity,Diversified,Growth,Small-Cap,US,Diversified,Medium,0.57,1.44,2.12,1993,BTS
+RWRY7,State Street SPDR Dow Jones REIT ETF II,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.43,2.64,3.43,2024,PCX
+PXEB2,Invesco Dynamic Energy Exploration & Production ETF Select,Invesco,Equity,Energy,Blend,Multi-Cap,US,Energy,High,0.55,0.14,2.3,1993,PCX
+FENYX5,Fidelity MSCI Energy Index ETF Core,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.59,1.93,2.98,1993,PCX
+KXIA1,iShares Global Consumer Staples ETF Enhanced,iShares,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Medium,0.71,0.52,2.28,1993,PCX
+SOXXD4,iShares Semiconductor ETF Core,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Low,0.71,18.98,0.41,2024,NGM
+XLYX5,State Street Consumer Discretionary Select Sector SPDR ETF Enhanced,Schwab,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.45,7.09,1.03,2024,PCX
+SCHAX9,Schwab U.S. Small-Cap ETF Enhanced,Schwab ETFs,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.45,7.29,1.07,1993,PCX
+FIDUX7,Fidelity MSCI Industrials Index ETF Enhanced,Schwab,Equity,Industrial,Value,Mid-Cap,US,Industrial,Medium,0.69,1.78,1.13,1993,PCX
+QQQX7,Invesco QQQ Trust Enhanced,Invesco,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.72,539.77,0.56,2024,NGM
+IBBY3,iShares Biotechnology ETF Plus,iShares,Equity,Healthcare,Blend,Large-Cap,US,Healthcare,Medium,0.66,7.17,0.28,2024,NGM
+FSTAD1,Fidelity MSCI Consumer Staples Index ETF Select,Fidelity Investments,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,Medium,0.49,1.22,2.28,1993,PCX
+FTECD6,Fidelity MSCI Information Technology Index ETF Core,Fidelity Investments,Equity,Technology,Growth,Multi-Cap,US,Technology,Medium,0.44,19.76,0.48,1993,PCX
+VOY9,Vanguard Mid-Cap Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Very High,0.45,63.31,1.81,1993,PCX
+IYRD6,iShares U.S. Real Estate ETF Enhanced,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.64,7.81,1.92,2024,PCX
+FDISY8,Fidelity MSCI Consumer Discretionary Index ETF Core,Fidelity Investments,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.41,2.85,0.65,1993,PCX
+IJRB5,iShares Core S&P Small-Cap ETF Enhanced,ARK,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.67,83.33,1.09,2024,PCX
+XLIX8,State Street Industrial Select Sector SPDR ETF Select,Vanguard,Equity,Industrial,Value,Multi-Cap,US,Industrial,Medium,0.67,12.07,1.01,2024,PCX
+ICFA2,iShares Select U.S. REIT ETF Core,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.43,2.08,2.45,2024,BTS
+VFHA1,Vanguard Financials Index Fund ETF Shares Select,Vanguard,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.61,13.52,1.78,1993,PCX
+SMHX6,VanEck Semiconductor ETF II,VanEck,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.57,43.19,0.31,1993,NGM
+RWRB2,State Street SPDR Dow Jones REIT ETF Plus,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.55,1.36,3.2,2024,PCX
+SMHC2,VanEck Semiconductor ETF Enhanced,VanEck,Equity,Technology,Blend,Mid-Cap,US,Technology,Medium,0.57,38.33,0.34,1993,NGM
+XARX9,State Street SPDR S&P Aerospace & Defense ETF Select,State Street Investment Management,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.57,11.47,0.37,1993,PCX
+RWRY5,State Street SPDR Dow Jones REIT ETF II,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Very High,0.48,3.17,3.2,2024,PCX
+XLEA8,State Street Energy Select Sector SPDR ETF Core,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.49,15.58,3.32,2024,PCX
+TANC2,Invesco Solar ETF Select,Invesco,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.46,0.82,0.0,1993,PCX
+RTHA3,VanEck Retail ETF Enhanced,ProShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.71,0.19,1.01,1993,NGM
+XLPD7,State Street Consumer Staples Select Sector SPDR ETF II,iShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.52,16.48,1.88,2024,PCX
+VISD1,Vanguard Industrials Index Fund ETF Shares II,Vanguard,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.51,3.3,1.04,1993,PCX
+IBBZ5,iShares Biotechnology ETF Core,Schwab,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.47,13.52,0.22,2024,NGM
+ICFX9,iShares Select U.S. REIT ETF Enhanced,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Very High,0.55,3.43,2.7,2024,BTS
+XLCY8,State Street Communication Services Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.66,36.34,1.0,1993,PCX
+FNCLC4,Fidelity MSCI Financials Index ETF II,Fidelity Investments,Equity,Financial,Blend,Multi-Cap,US,Financial,Low,0.68,2.61,1.09,1993,PCX
+XMEB1,State Street SPDR S&P Metals & Mining ETF Core,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.66,6.26,0.41,1993,PCX
+XLBD5,State Street Materials Select Sector SPDR ETF Plus,Schwab,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.54,6.76,1.93,2024,PCX
+VISZ2,Vanguard Industrials Index Fund ETF Shares II,Vanguard,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.75,10.69,1.01,1993,PCX
+VOZ6,Vanguard Mid-Cap Index Fund ETF Shares Select,VanEck,Equity,Diversified,Growth,Multi-Cap,US,Diversified,Medium,0.69,390.3,1.04,1993,PCX
+IBBB8,iShares Biotechnology ETF II,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.63,15.64,0.25,2024,NGM
+IEOZ7,iShares U.S. Oil & Gas Exploration & Production ETF Core,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Very High,0.57,0.21,1.87,1993,BTS
+XLIZ7,State Street Industrial Select Sector SPDR ETF Enhanced,SPDR,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.74,23.77,1.17,2024,PCX
+VNQY2,Vanguard Real Estate Index Fund ETF Shares Select,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Low,0.44,77.82,4.56,1993,PCX
+IJRY7,iShares Core S&P Small-Cap ETF Plus,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,High,0.47,116.02,1.45,2024,PCX
+VFHZ8,Vanguard Financials Index Fund ETF Shares Core,Vanguard,Equity,Financial,Growth,Multi-Cap,US,Financial,High,0.57,16.26,1.37,1993,PCX
+FIDUX6,Fidelity MSCI Industrials Index ETF Core,Fidelity Investments,Equity,Industrial,Growth,Multi-Cap,US,Industrial,Medium,0.64,0.76,0.81,1993,PCX
+QQQY4,Invesco QQQ Trust Core,Invesco,Equity,Diversified,Growth,Small-Cap,US,Diversified,Very High,0.55,565.9,0.4,2024,NGM
+VISZ6,Vanguard Industrials Index Fund ETF Shares Core,Vanguard,Equity,Industrial,Growth,Small-Cap,US,Industrial,Medium,0.42,11.74,1.01,1993,PCX
+IEFAX1,iShares Core MSCI EAFE ETF II,iShares,Equity,Diversified,Growth,Large-Cap,International,Diversified,Low,0.46,171.86,2.49,1993,BTS
+VHTC1,Vanguard Health Care Index Fund ETF Shares Plus,ARK,Equity,Healthcare,Growth,Mid-Cap,US,Healthcare,Medium,0.68,29.74,1.84,1993,PCX
+IYFC5,iShares U.S. Financials ETF Select,Invesco,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.44,5.61,1.15,2024,PCX
+XMEY3,State Street SPDR S&P Metals & Mining ETF II,State Street Investment Management,Equity,Diversified,Growth,Multi-Cap,US,Diversified,Medium,0.73,2.81,0.32,1993,PCX
+IBBX9,iShares Biotechnology ETF Core,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Very High,0.41,7.73,0.17,2024,NGM
+SCHHB4,Schwab U.S. REIT ETF Core,Schwab ETFs,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.61,9.78,2.9,1993,PCX
+ARKKZ7,ARK Innovation ETF Plus,Direxion,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.7,10.22,0.0,1993,BTS
+XOPC9,State Street SPDR S&P Oil & Gas Exploration & Production ETF Select,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.59,1.03,1.91,1993,PCX
+XLPZ2,State Street Consumer Staples Select Sector SPDR ETF Select,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.74,27.94,2.89,2024,PCX
+XLCD9,State Street Communication Services Select Sector SPDR ETF Core,State Street Investment Management,Equity,Telecom,Value,Multi-Cap,US,Telecom,High,0.6,40.69,1.16,1993,PCX
+IYMA6,iShares U.S. Basic Materials ETF Plus,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.72,1.46,1.24,2024,PCX
+XLUA2,State Street Utilities Select Sector SPDR ETF II,State Street Investment Management,Equity,Utilities,Blend,Mid-Cap,US,Utilities,Medium,0.42,30.25,2.59,2024,PCX
+IJHX3,iShares Core S&P Mid-Cap ETF II,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.44,195.94,0.96,2024,PCX
+VEAX4,Vanguard FTSE Developed Markets Index Fund ETF Shares Select,Vanguard,Equity,Diversified,Blend,Multi-Cap,International,Diversified,Medium,0.52,470.54,2.98,1993,PCX
+XLVZ2,State Street Health Care Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.67,44.71,1.58,2024,PCX
+FMATY5,Fidelity MSCI Materials Index ETF Plus,Schwab,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.69,0.69,1.66,1993,PCX
+VNQC7,Vanguard Real Estate Index Fund ETF Shares Core,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.41,31.55,4.19,1993,PCX
+PICKZ8,iShares MSCI Global Metals & Mining Producers ETF Plus,SPDR,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.65,2.79,2.35,1993,BTS
+PICKX1,iShares MSCI Global Metals & Mining Producers ETF Enhanced,iShares,Equity,Diversified,Value,Multi-Cap,US,Diversified,Medium,0.5,3.74,1.8,1993,BTS
+XLYY2,State Street Consumer Discretionary Select Sector SPDR ETF II,State Street Investment Management,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.68,36.74,0.95,2024,PCX
+IYJZ4,iShares U.S. Industrials ETF Select,iShares,Equity,Industrial,Blend,Small-Cap,US,Industrial,Very High,0.66,3.68,0.67,2024,BTS
+SLYVC5,State Street SPDR S&P 600 Small Cap Value ETF Enhanced,State Street Investment Management,Equity,Diversified,Value,Small-Cap,US,Diversified,High,0.69,7.42,1.79,2024,PCX
+IYWX6,iShares U.S. Technology ETF Select,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.45,19.33,0.13,2024,PCX
+SPTMZ6,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF Core,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.57,6.8,1.36,2024,PCX
+ACWIA8,iShares MSCI ACWI ETF Core,iShares,Equity,Diversified,Blend,Large-Cap,Global,Diversified,Medium,0.66,30.78,1.82,1993,NGM
+VXUSX2,Vanguard Total International Stock Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.69,716.09,2.49,1993,NGM
+VOOY3,Vanguard S&P 500 ETF Select,First Trust,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.45,2642.38,1.35,1993,PCX
+IYFA3,iShares U.S. Financials ETF Select,iShares,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.51,4.13,1.25,2024,PCX
+FUTYC3,Fidelity MSCI Utilities Index ETF Core,Fidelity Investments,Equity,Utilities,Blend,Small-Cap,US,Utilities,Medium,0.59,1.65,1.92,1993,PCX
+IGVB1,iShares Expanded Tech-Software Sector ETF Core,Vanguard,Equity,Technology,Value,Mid-Cap,US,Technology,Medium,0.63,17.87,0.0,2024,BTS
+SLYVX2,State Street SPDR S&P 600 Small Cap Value ETF Core,State Street Investment Management,Equity,Diversified,Value,Small-Cap,US,Diversified,High,0.74,4.43,1.83,2024,PCX
+KREZ4,State Street SPDR S&P Regional Banking ETF Select,State Street Investment Management,Equity,Financial,Blend,Large-Cap,US,Financial,Medium,0.55,4.31,1.96,1993,PCX
+SPLGZ3,State Street SPDR Portfolio S&P 500 ETF Plus,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Low,0.5,154.79,1.45,1993,PCX
+ICFY1,iShares Select U.S. REIT ETF II,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.5,1.07,2.46,2024,BTS
+TANB5,Invesco Solar ETF Plus,Invesco,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.71,0.81,0.0,1993,PCX
+ACWIY2,iShares MSCI ACWI ETF II,iShares,Equity,Diversified,Value,Mid-Cap,Global,Diversified,Medium,0.69,15.94,1.56,1993,NGM
+VFHB2,Vanguard Financials Index Fund ETF Shares II,SPDR,Equity,Financial,Value,Multi-Cap,US,Financial,Low,0.73,21.94,1.85,1993,PCX
+IWMB9,iShares Russell 2000 ETF Select,Invesco,Equity,Diversified,Growth,Small-Cap,US,Diversified,High,0.55,121.05,0.87,2024,PCX
+VOXA6,Vanguard Communication Services Index Fund ETF Shares Plus,Vanguard,Equity,Telecom,Blend,Multi-Cap,US,Telecom,High,0.54,8.24,0.7,1993,PCX
+SLYGY4,State Street SPDR S&P 600 Small Cap Growth ETF Plus,State Street Investment Management,Equity,Diversified,Value,Large-Cap,US,Diversified,Medium,0.5,1.54,0.82,2024,PCX
+XLKY8,State Street Technology Select Sector SPDR ETF Core,VanEck,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.55,75.12,0.72,2024,PCX
+XLPY3,State Street Consumer Staples Select Sector SPDR ETF Core,State Street Investment Management,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.73,22.56,2.22,2024,PCX
+XLCY1,State Street Communication Services Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Telecom,Value,Large-Cap,US,Telecom,Medium,0.55,48.23,1.41,1993,PCX
+FHLCC2,Fidelity MSCI Health Care Index ETF Plus,Fidelity Investments,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.52,3.12,1.67,1993,PCX
+XARD1,State Street SPDR S&P Aerospace & Defense ETF Enhanced,State Street Investment Management,Equity,Industrial,Blend,Small-Cap,US,Industrial,Medium,0.63,5.76,0.27,1993,PCX
+FNCLD1,Fidelity MSCI Financials Index ETF Plus,Vanguard,Equity,Financial,Value,Mid-Cap,US,Financial,Medium,0.46,3.18,1.43,1993,PCX
+IVVY2,iShares Core S&P 500 ETF Plus,ProShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Very High,0.67,564.18,0.95,2024,PCX
+ARKGD6,ARK Genomic Revolution ETF Core,SPDR,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Very High,0.47,2.08,0.0,1993,BTS
+PICKD3,iShares MSCI Global Metals & Mining Producers ETF Select,Invesco,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.44,2.48,2.67,1993,BTS
+TANB7,Invesco Solar ETF Select,Invesco,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.51,3.0,0.0,1993,PCX
+IBBA5,iShares Biotechnology ETF II,iShares,Equity,Healthcare,Growth,Small-Cap,US,Healthcare,Medium,0.58,8.54,0.21,2024,NGM
+IEOY9,iShares U.S. Oil & Gas Exploration & Production ETF Core,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.5,0.7,2.46,1993,BTS
+IEFAZ5,iShares Core MSCI EAFE ETF Plus,iShares,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.59,224.35,2.9,1993,BTS
+IVVB2,iShares Core S&P 500 ETF Select,First Trust,Equity,Diversified,Blend,Large-Cap,US,Diversified,Very High,0.44,609.96,1.0,2024,PCX
+XLYC6,State Street Consumer Discretionary Select Sector SPDR ETF Plus,Schwab,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.59,26.7,1.0,2024,PCX
+FUTYB4,Fidelity MSCI Utilities Index ETF Enhanced,Fidelity Investments,Equity,Utilities,Blend,Small-Cap,US,Utilities,Medium,0.57,2.24,3.02,1993,PCX
+SCHXB7,Schwab U.S. Large-Cap ETF Plus,ARK,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.56,24.65,0.95,1993,PCX
+VOB2,Vanguard Mid-Cap Index Fund ETF Shares Select,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.55,133.06,1.29,1993,PCX
+MDYA7,State Street SPDR S&P MIDCAP 400 ETF Trust Select,Direxion,Equity,Diversified,Blend,Mid-Cap,US,Diversified,High,0.49,32.32,1.11,2024,PCX
+RWRC9,State Street SPDR Dow Jones REIT ETF Enhanced,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.41,2.38,2.67,2024,PCX
+IJRA3,iShares Core S&P Small-Cap ETF II,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,High,0.56,149.0,1.64,2024,PCX
+SPLGY2,State Street SPDR Portfolio S&P 500 ETF Core,State Street Investment Management,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.68,71.96,1.19,1993,PCX
+VEAB9,Vanguard FTSE Developed Markets Index Fund ETF Shares Plus,ProShares,Equity,Diversified,Growth,Small-Cap,International,Diversified,Medium,0.52,515.56,3.25,1993,PCX
+SCHXA9,Schwab U.S. Large-Cap ETF Enhanced,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.65,75.46,1.16,1993,PCX
+XLPX2,State Street Consumer Staples Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.43,27.89,2.51,2024,PCX
+XLREX7,State Street Real Estate Select Sector SPDR ETF II,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Very High,0.67,5.38,2.66,1993,PCX
+ITOTY8,iShares Core S&P Total U.S. Stock Market ETF Plus,Global X,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Low,0.58,121.98,1.39,1993,PCX
+SMHZ1,VanEck Semiconductor ETF Select,VanEck,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.44,72.97,0.31,1993,NGM
+VNQZ6,Vanguard Real Estate Index Fund ETF Shares Enhanced,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Very High,0.45,109.08,2.73,1993,PCX
+IEFAD9,iShares Core MSCI EAFE ETF Enhanced,iShares,Equity,Diversified,Growth,Mid-Cap,International,Diversified,Very High,0.69,249.63,2.49,1993,BTS
+IYKB4,iShares US Consumer Staples ETF Enhanced,First Trust,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.71,0.77,2.61,2024,PCX
+SOXXY1,iShares Semiconductor ETF Core,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,High,0.51,24.69,0.42,2024,NGM
+XOPA8,State Street SPDR S&P Oil & Gas Exploration & Production ETF Core,State Street Investment Management,Equity,Energy,Growth,Multi-Cap,US,Energy,Very High,0.63,2.52,1.75,1993,PCX
+XOPD5,State Street SPDR S&P Oil & Gas Exploration & Production ETF Plus,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Very High,0.64,3.57,2.29,1993,PCX
+XMEA5,State Street SPDR S&P Metals & Mining ETF Core,State Street Investment Management,Equity,Diversified,Value,Multi-Cap,US,Diversified,Medium,0.62,5.48,0.27,1993,PCX
+FDISC3,Fidelity MSCI Consumer Discretionary Index ETF Plus,ProShares,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Medium,0.5,2.01,0.93,1993,PCX
+IYEA4,iShares U.S. Energy ETF Enhanced,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.51,1.62,2.02,2024,PCX
+VOY9,Vanguard Mid-Cap Index Fund ETF Shares Core,Vanguard,Equity,Diversified,Blend,Mid-Cap,US,Diversified,High,0.42,297.92,1.26,1993,PCX
+IEFAC2,iShares Core MSCI EAFE ETF Select,iShares,Equity,Diversified,Blend,Mid-Cap,International,Diversified,Very High,0.63,73.89,3.5,1993,BTS
+IWRA8,iShares Russell Mid-Cap ETF Core,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.54,75.87,1.02,2024,PCX
+ITOTD9,iShares Core S&P Total U.S. Stock Market ETF Select,WisdomTree,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.44,86.36,0.94,1993,PCX
+VTIA2,Vanguard Total Stock Market Index Fund ETF Shares II,Vanguard,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.63,2494.05,1.22,2024,PCX
+XLPZ4,State Street Consumer Staples Select Sector SPDR ETF Core,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.58,26.1,2.95,2024,PCX
+IYJX2,iShares U.S. Industrials ETF Plus,ARK,Equity,Industrial,Blend,Small-Cap,US,Industrial,Medium,0.59,3.07,0.75,2024,BTS
+VGTZ1,Vanguard Information Technology Index Fund ETF Shares Select,Global X,Equity,Technology,Blend,Large-Cap,US,Technology,Medium,0.56,153.03,0.35,1993,PCX
+IYJX9,iShares U.S. Industrials ETF Select,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.47,4.54,0.92,2024,BTS
+VBA5,Vanguard Small-Cap Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,High,0.7,209.01,1.0,1993,PCX
+ICFA5,iShares Select U.S. REIT ETF II,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.71,3.96,2.45,2024,BTS
+ITOTZ1,iShares Core S&P Total U.S. Stock Market ETF Core,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.46,93.64,0.95,1993,PCX
+QQQA3,Invesco QQQ Trust II,Invesco,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Very High,0.5,386.9,0.34,2024,NGM
+FIDUZ4,Fidelity MSCI Industrials Index ETF Core,Fidelity Investments,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.7,1.03,1.01,1993,PCX
+KREX1,State Street SPDR S&P Regional Banking ETF II,State Street Investment Management,Equity,Financial,Value,Multi-Cap,US,Financial,Medium,0.72,5.2,2.64,1993,PCX
+IJRD8,iShares Core S&P Small-Cap ETF Plus,iShares,Equity,Diversified,Value,Multi-Cap,US,Diversified,High,0.54,123.01,1.4,2024,PCX
+XLUD4,State Street Utilities Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Utilities,Blend,Small-Cap,US,Utilities,Medium,0.67,10.95,1.7,2024,PCX
+SLYVA1,State Street SPDR S&P 600 Small Cap Value ETF Enhanced,State Street Investment Management,Equity,Diversified,Value,Small-Cap,US,Diversified,Very High,0.54,4.3,1.5,2024,PCX
+FNCLX6,Fidelity MSCI Financials Index ETF II,Fidelity Investments,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.75,2.03,1.45,1993,PCX
+SCHFY7,Schwab International Equity ETF Enhanced,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.73,82.32,3.92,1993,PCX
+FHLCX4,Fidelity MSCI Health Care Index ETF II,Fidelity Investments,Equity,Healthcare,Growth,Multi-Cap,US,Healthcare,Medium,0.63,5.11,1.03,1993,PCX
+FSTAZ3,Fidelity MSCI Consumer Staples Index ETF Select,Fidelity Investments,Equity,Consumer Staples,Value,Mid-Cap,US,Consumer Staples,Medium,0.71,1.74,1.87,1993,PCX
+XLPD1,State Street Consumer Staples Select Sector SPDR ETF II,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.42,33.19,2.12,2024,PCX
+IWMZ8,iShares Russell 2000 ETF Select,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.61,52.04,0.78,2024,PCX
+ARKGD5,ARK Genomic Revolution ETF Select,ARK ETF Trust,Equity,Healthcare,Value,Multi-Cap,US,Healthcare,Medium,0.53,1.79,0.0,1993,BTS
+KREX7,State Street SPDR S&P Regional Banking ETF Core,WisdomTree,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.57,1.63,2.34,1993,PCX
+SCHXC2,Schwab U.S. Large-Cap ETF Enhanced,Schwab ETFs,Equity,Diversified,Growth,Multi-Cap,US,Diversified,Medium,0.71,34.6,1.13,1993,PCX
+RTHZ6,VanEck Retail ETF Core,VanEck,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.68,0.29,0.68,1993,NGM
+VHTX8,Vanguard Health Care Index Fund ETF Shares Plus,Vanguard,Equity,Healthcare,Value,Multi-Cap,US,Healthcare,High,0.63,25.93,1.21,1993,PCX
+SCHFZ7,Schwab International Equity ETF Plus,Schwab ETFs,Equity,Diversified,Growth,Small-Cap,International,Diversified,Medium,0.63,39.27,2.51,1993,PCX
+FSTAY6,Fidelity MSCI Consumer Staples Index ETF Select,Fidelity Investments,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.6,0.58,2.33,1993,PCX
+XLBZ4,State Street Materials Select Sector SPDR ETF II,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Very High,0.48,8.49,2.02,2024,PCX
+IYZD4,iShares U.S. Telecommunications ETF Plus,iShares,Equity,Telecom,Value,Multi-Cap,US,Telecom,Medium,0.48,0.42,1.25,2024,BTS
+IYFC4,iShares U.S. Financials ETF Select,iShares,Equity,Financial,Value,Multi-Cap,US,Financial,Medium,0.5,1.68,1.13,2024,PCX
+FCOMD1,Fidelity MSCI Communication Services Index ETF II,Schwab,Equity,Telecom,Value,Small-Cap,US,Telecom,Medium,0.42,0.67,0.65,1993,PCX
+VOXX9,Vanguard Communication Services Index Fund ETF Shares Enhanced,Vanguard,Equity,Telecom,Growth,Multi-Cap,US,Telecom,Medium,0.65,9.93,0.89,1993,PCX
+KXIB5,iShares Global Consumer Staples ETF Enhanced,iShares,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,Medium,0.55,1.08,2.39,1993,PCX
+XLCA9,State Street Communication Services Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Telecom,Blend,Small-Cap,US,Telecom,Medium,0.71,40.6,0.9,1993,PCX
+EFAD1,iShares MSCI EAFE ETF Enhanced,Vanguard,Equity,Diversified,Growth,Large-Cap,International,Diversified,Medium,0.68,101.62,3.27,2024,PCX
+XARA5,State Street SPDR S&P Aerospace & Defense ETF Select,State Street Investment Management,Equity,Industrial,Growth,Multi-Cap,US,Industrial,Medium,0.65,10.59,0.36,1993,PCX
+FNCLB9,Fidelity MSCI Financials Index ETF Plus,First Trust,Equity,Financial,Blend,Multi-Cap,US,Financial,High,0.6,0.86,1.88,1993,PCX
+ITAC9,iShares U.S. Aerospace & Defense ETF Select,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.74,24.32,0.47,1993,BTS
+SCHFC2,Schwab International Equity ETF II,Schwab ETFs,Equity,Diversified,Growth,Small-Cap,International,Diversified,Medium,0.67,118.96,3.53,1993,PCX
+IHIY6,iShares U.S. Medical Devices ETF Select,iShares,Equity,Healthcare,Blend,Large-Cap,US,Healthcare,Medium,0.47,4.59,0.29,1993,PCX
+IYEX8,iShares U.S. Energy ETF Enhanced,iShares,Equity,Energy,Blend,Large-Cap,US,Energy,Medium,0.69,1.83,1.7,2024,PCX
+IDUX4,iShares U.S. Utilities ETF Enhanced,iShares,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.57,0.59,2.4,2024,PCX
+VBC2,Vanguard Small-Cap Index Fund ETF Shares II,Vanguard,Equity,Diversified,Growth,Large-Cap,US,Diversified,Very High,0.44,212.74,1.27,1993,PCX
+SCHXX1,Schwab U.S. Large-Cap ETF II,Schwab ETFs,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.71,72.86,1.15,1993,PCX
+VPUZ5,Vanguard Utilities Index Fund ETF Shares Plus,Schwab,Equity,Utilities,Blend,Large-Cap,US,Utilities,Very High,0.74,3.89,2.83,1993,PCX
+SPLGZ7,State Street SPDR Portfolio S&P 500 ETF Select,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Very High,0.66,68.8,1.44,1993,PCX
+QQQY2,Invesco QQQ Trust Enhanced,Invesco,Equity,Diversified,Growth,Large-Cap,US,Diversified,High,0.42,584.27,0.58,2024,NGM
+XLPA5,State Street Consumer Staples Select Sector SPDR ETF Select,State Street Investment Management,Equity,Consumer Staples,Value,Large-Cap,US,Consumer Staples,Medium,0.71,20.5,2.01,2024,PCX
+RTHC7,VanEck Retail ETF Plus,ARK,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,Medium,0.53,0.36,0.87,1993,NGM
+VTWOY9,Vanguard Russell 2000 Index Fund ETF Shares Plus,VanEck,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.67,9.9,1.35,1993,NGM
+XBIY6,State Street SPDR S&P Biotech ETF Select,State Street Investment Management,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.67,4.34,0.27,1993,PCX
+IYEX7,iShares U.S. Energy ETF Enhanced,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.49,1.78,1.72,2024,PCX
+RTHC4,VanEck Retail ETF Core,VanEck,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,Medium,0.52,0.24,1.06,1993,NGM
+XLEY2,State Street Energy Select Sector SPDR ETF II,State Street Investment Management,Equity,Energy,Value,Multi-Cap,US,Energy,Medium,0.75,31.04,2.6,2024,PCX
+KBEB6,State Street SPDR S&P Bank ETF Enhanced,iShares,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.44,1.38,1.92,1993,PCX
+VOOA2,Vanguard S&P 500 ETF Enhanced,Vanguard,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.62,1266.7,0.89,1993,PCX
+KBEY3,State Street SPDR S&P Bank ETF II,State Street Investment Management,Equity,Financial,Value,Mid-Cap,US,Financial,Medium,0.52,2.28,2.14,1993,PCX
+IJHB7,iShares Core S&P Mid-Cap ETF Core,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.73,69.53,1.45,2024,PCX
+IJRB8,iShares Core S&P Small-Cap ETF Core,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,High,0.48,166.84,1.34,2024,PCX
+ARKKA8,ARK Innovation ETF Core,WisdomTree,Equity,Diversified,Value,Mid-Cap,US,Diversified,Medium,0.57,6.32,0.0,1993,BTS
+VDCB9,Vanguard Consumer Staples Index Fund ETF Shares II,Vanguard,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,Medium,0.52,4.08,1.94,1993,PCX
+SPYA8,State Street SPDR S&P 500 ETF Trust Enhanced,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.53,549.21,1.04,2024,PCX
+TANY4,Invesco Solar ETF Select,Invesco,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.62,1.04,0.0,1993,PCX
+IJHY8,iShares Core S&P Mid-Cap ETF Enhanced,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.42,75.86,1.09,2024,PCX
+IYMA7,iShares U.S. Basic Materials ETF Select,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.66,1.5,1.14,2024,PCX
+VNQC6,Vanguard Real Estate Index Fund ETF Shares Select,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.41,30.22,2.68,1993,PCX
+XBIB7,State Street SPDR S&P Biotech ETF Enhanced,State Street Investment Management,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Low,0.42,3.61,0.41,1993,PCX
+IYMB3,iShares U.S. Basic Materials ETF Core,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Low,0.73,1.08,1.36,2024,PCX
+KXIY2,iShares Global Consumer Staples ETF Plus,First Trust,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,Medium,0.45,0.9,2.6,1993,PCX
+SLYGY7,State Street SPDR S&P 600 Small Cap Growth ETF Plus,State Street Investment Management,Equity,Diversified,Value,Small-Cap,US,Diversified,Medium,0.4,5.75,0.79,2024,PCX
+XLFX8,State Street Financial Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Financial,Blend,Small-Cap,US,Financial,Medium,0.4,69.34,1.62,2024,PCX
+RWRC3,State Street SPDR Dow Jones REIT ETF Core,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.65,1.65,3.69,2024,PCX
+MDYY4,State Street SPDR S&P MIDCAP 400 ETF Trust II,Global X,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.6,37.27,1.21,2024,PCX
+FHLCD4,Fidelity MSCI Health Care Index ETF II,Fidelity Investments,Equity,Healthcare,Growth,Small-Cap,US,Healthcare,Medium,0.5,3.63,1.41,1993,PCX
+IEOC6,iShares U.S. Oil & Gas Exploration & Production ETF Enhanced,Global X,Equity,Energy,Value,Multi-Cap,US,Energy,Medium,0.64,0.56,2.74,1993,BTS
+IVOOX8,Vanguard S&P Mid-Cap 400 Index Fund ETF Shares II,First Trust,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.48,4.14,1.47,1993,PCX
+XLBC9,State Street Materials Select Sector SPDR ETF Select,Schwab,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.51,11.37,1.75,2024,PCX
+VTWOY4,Vanguard Russell 2000 Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.53,4.88,1.25,1993,NGM
+IYZX8,iShares U.S. Telecommunications ETF II,iShares,Equity,Telecom,Blend,Large-Cap,US,Telecom,Medium,0.48,1.51,2.06,2024,BTS
+XOPD7,State Street SPDR S&P Oil & Gas Exploration & Production ETF Select,ProShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.73,3.28,1.73,1993,PCX
+SCHFY7,Schwab International Equity ETF Enhanced,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.69,111.04,3.6,1993,PCX
+XLFY2,State Street Financial Select Sector SPDR ETF II,Direxion,Equity,Financial,Blend,Multi-Cap,US,Financial,Low,0.55,27.09,1.51,2024,PCX
+MDYB3,State Street SPDR S&P MIDCAP 400 ETF Trust Select,First Trust,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.51,16.2,1.11,2024,PCX
+IDUX4,iShares U.S. Utilities ETF Select,iShares,Equity,Utilities,Value,Small-Cap,US,Utilities,Medium,0.46,2.93,2.0,2024,PCX
+VOX7,Vanguard Mid-Cap Index Fund ETF Shares II,ProShares,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.41,81.89,1.36,1993,PCX
+XBIY5,State Street SPDR S&P Biotech ETF Enhanced,State Street Investment Management,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.54,13.29,0.44,1993,PCX
+VFHZ2,Vanguard Financials Index Fund ETF Shares Core,iShares,Equity,Financial,Value,Mid-Cap,US,Financial,Medium,0.58,5.31,1.25,1993,PCX
+XLYX3,State Street Consumer Discretionary Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,Medium,0.49,35.5,0.76,2024,PCX
+ARKGA1,ARK Genomic Revolution ETF Core,ARK ETF Trust,Equity,Healthcare,Value,Multi-Cap,US,Healthcare,Medium,0.71,0.98,0.0,1993,BTS
+IYCC1,iShares US Consumer Discretionary ETF Select,ProShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.45,0.41,0.53,2024,PCX
+SCHMZ8,Schwab U.S. Mid-Cap ETF Plus,Schwab ETFs,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Very High,0.72,18.52,1.72,1993,PCX
+IYED2,iShares U.S. Energy ETF Select,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.48,1.03,2.44,2024,PCX
+FHLCX6,Fidelity MSCI Health Care Index ETF Core,Fidelity Investments,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.56,5.37,1.55,1993,PCX
+VTWOY2,Vanguard Russell 2000 Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,High,0.48,27.56,1.13,1993,NGM
+IHIA3,iShares U.S. Medical Devices ETF Plus,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.6,3.67,0.32,1993,PCX
+SMHD9,VanEck Semiconductor ETF Select,VanEck,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.43,69.19,0.29,1993,NGM
+XBIC2,State Street SPDR S&P Biotech ETF Core,State Street Investment Management,Equity,Healthcare,Value,Large-Cap,US,Healthcare,Medium,0.4,5.83,0.45,1993,PCX
+FHLCC1,Fidelity MSCI Health Care Index ETF Select,Fidelity Investments,Equity,Healthcare,Value,Multi-Cap,US,Healthcare,Medium,0.55,1.34,1.04,1993,PCX
+SCHXB1,Schwab U.S. Large-Cap ETF Core,Schwab ETFs,Equity,Diversified,Blend,Mid-Cap,US,Diversified,High,0.74,39.66,1.05,1993,PCX
+SPLGA8,State Street SPDR Portfolio S&P 500 ETF Core,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.4,159.73,1.31,1993,PCX
+IDUA7,iShares U.S. Utilities ETF Enhanced,Direxion,Equity,Utilities,Growth,Large-Cap,US,Utilities,Medium,0.6,2.13,2.26,2024,PCX
+SCHHC5,Schwab U.S. REIT ETF Core,Direxion,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.69,12.67,2.4,1993,PCX
+XOPB7,State Street SPDR S&P Oil & Gas Exploration & Production ETF Select,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.41,0.89,2.33,1993,PCX
+XLYB5,State Street Consumer Discretionary Select Sector SPDR ETF II,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.54,34.08,1.0,2024,PCX
+ICFC4,iShares Select U.S. REIT ETF Core,WisdomTree,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.71,3.81,1.86,2024,BTS
+SLYGB9,State Street SPDR S&P 600 Small Cap Growth ETF Core,State Street Investment Management,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.56,5.71,0.57,2024,PCX
+FCOMZ6,Fidelity MSCI Communication Services Index ETF Select,Fidelity Investments,Equity,Telecom,Blend,Mid-Cap,US,Telecom,Medium,0.72,2.9,0.75,1993,PCX
+XRTY1,State Street SPDR S&P Retail ETF II,ProShares,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.6,0.4,0.81,1993,PCX
+FCOMC7,Fidelity MSCI Communication Services Index ETF Plus,Fidelity Investments,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.73,2.84,1.12,1993,PCX
+MDYC7,State Street SPDR S&P MIDCAP 400 ETF Trust Plus,State Street Investment Management,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.41,17.93,0.79,2024,PCX
+SCHAA5,Schwab U.S. Small-Cap ETF Select,Schwab,Equity,Diversified,Value,Small-Cap,US,Diversified,High,0.49,32.93,0.87,1993,PCX
+SCHXB9,Schwab U.S. Large-Cap ETF II,Schwab ETFs,Equity,Diversified,Blend,Small-Cap,US,Diversified,Medium,0.58,54.97,1.26,1993,PCX
+SPTMC5,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF Core,ARK,Equity,Diversified,Blend,Large-Cap,US,Diversified,Low,0.74,17.97,1.04,2024,PCX
+SCHAA4,Schwab U.S. Small-Cap ETF Core,Schwab ETFs,Equity,Diversified,Blend,Multi-Cap,US,Diversified,High,0.6,13.07,1.26,1993,PCX
+FIDUD2,Fidelity MSCI Industrials Index ETF Select,Fidelity Investments,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Very High,0.48,1.82,1.14,1993,PCX
+RWRC5,State Street SPDR Dow Jones REIT ETF II,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.64,2.09,4.02,2024,PCX
+VHTX5,Vanguard Health Care Index Fund ETF Shares Select,Vanguard,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,High,0.46,28.3,1.51,1993,PCX
+SPYA4,State Street SPDR S&P 500 ETF Trust Select,State Street Investment Management,Equity,Diversified,Growth,Large-Cap,US,Diversified,High,0.58,746.5,1.3,2024,PCX
+IYZZ5,iShares U.S. Telecommunications ETF Select,Vanguard,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.43,0.79,1.39,2024,BTS
+IYJB5,iShares U.S. Industrials ETF Select,ProShares,Equity,Industrial,Blend,Large-Cap,US,Industrial,Medium,0.45,3.12,0.66,2024,BTS
+IYJB6,iShares U.S. Industrials ETF II,iShares,Equity,Industrial,Growth,Multi-Cap,US,Industrial,Medium,0.75,2.53,0.63,2024,BTS
+MDYA1,State Street SPDR S&P MIDCAP 400 ETF Trust II,Direxion,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.45,15.51,1.18,2024,PCX
+XOPY8,State Street SPDR S&P Oil & Gas Exploration & Production ETF Plus,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.49,1.54,1.71,1993,PCX
+ARKWZ1,ARK Next Generation Internet ETF II,SPDR,Equity,Diversified,Growth,Mid-Cap,US,Diversified,High,0.68,0.56,1.97,1993,BTS
+FDISY2,Fidelity MSCI Consumer Discretionary Index ETF II,Fidelity Investments,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Medium,0.64,3.3,0.94,1993,PCX
+XRTA7,State Street SPDR S&P Retail ETF Plus,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.61,1.25,0.83,1993,PCX
+IYJC4,iShares U.S. Industrials ETF Plus,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.47,3.27,0.56,2024,BTS
+IDUZ4,iShares U.S. Utilities ETF Plus,Vanguard,Equity,Utilities,Growth,Mid-Cap,US,Utilities,Medium,0.49,2.78,1.81,2024,PCX
+IYFY8,iShares U.S. Financials ETF Core,iShares,Equity,Financial,Blend,Small-Cap,US,Financial,Medium,0.63,4.45,1.43,2024,PCX
+FIDUZ1,Fidelity MSCI Industrials Index ETF Select,Fidelity Investments,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.44,1.33,0.65,1993,PCX
+IYRB8,iShares U.S. Real Estate ETF Plus,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.41,1.52,2.25,2024,PCX
+PICKZ6,iShares MSCI Global Metals & Mining Producers ETF Plus,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.66,1.09,2.64,1993,BTS
+VEAX6,Vanguard FTSE Developed Markets Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.61,467.02,2.93,1993,PCX
+VHTB7,Vanguard Health Care Index Fund ETF Shares II,Vanguard,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.66,21.94,1.51,1993,PCX
+SMHY2,VanEck Semiconductor ETF Enhanced,VanEck,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.72,56.15,0.31,1993,NGM
+VDEZ3,Vanguard Energy Index Fund ETF Shares Core,Vanguard,Equity,Energy,Blend,Large-Cap,US,Energy,High,0.41,19.75,2.79,1993,PCX
+SCHHY3,Schwab U.S. REIT ETF Select,Schwab ETFs,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.5,7.34,1.97,1993,PCX
+XLVZ6,State Street Health Care Select Sector SPDR ETF II,ProShares,Equity,Healthcare,Blend,Large-Cap,US,Healthcare,Medium,0.53,85.01,1.57,2024,PCX
+XLEY9,State Street Energy Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.45,66.51,2.91,2024,PCX
+SCHFY4,Schwab International Equity ETF Select,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.52,72.98,2.86,1993,PCX
+SCHAY5,Schwab U.S. Small-Cap ETF Enhanced,Schwab ETFs,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.71,24.57,1.36,1993,PCX
+FCOMA8,Fidelity MSCI Communication Services Index ETF Core,First Trust,Equity,Telecom,Blend,Small-Cap,US,Telecom,Medium,0.57,3.45,1.0,1993,PCX
+XLUB8,State Street Utilities Select Sector SPDR ETF Core,State Street Investment Management,Equity,Utilities,Growth,Mid-Cap,US,Utilities,Medium,0.47,14.34,1.79,2024,PCX
+VCRC6,Vanguard Consumer Discretionary Index Fund ETF Shares Select,Vanguard,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Very High,0.63,4.46,0.64,1993,PCX
+FNCLD3,Fidelity MSCI Financials Index ETF Enhanced,ProShares,Equity,Financial,Blend,Multi-Cap,US,Financial,High,0.56,2.66,1.82,1993,PCX
+IEOB6,iShares U.S. Oil & Gas Exploration & Production ETF II,iShares,Equity,Energy,Growth,Small-Cap,US,Energy,Very High,0.64,0.38,2.56,1993,BTS
+IVVA7,iShares Core S&P 500 ETF Plus,iShares,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.56,393.92,1.35,2024,PCX
+VOXA6,Vanguard Communication Services Index Fund ETF Shares Select,SPDR,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.44,3.42,0.77,1993,PCX
+SCHHY3,Schwab U.S. REIT ETF Enhanced,Schwab ETFs,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.52,15.52,2.89,1993,PCX
+FUTYX9,Fidelity MSCI Utilities Index ETF Core,Fidelity Investments,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.68,3.08,1.99,1993,PCX
+IYMY9,iShares U.S. Basic Materials ETF II,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.5,1.74,1.52,2024,PCX
+ARKGB1,ARK Genomic Revolution ETF II,ARK ETF Trust,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.41,0.77,0.0,1993,BTS
+XLKC1,State Street Technology Select Sector SPDR ETF Enhanced,Global X,Equity,Technology,Blend,Multi-Cap,US,Technology,Very High,0.64,137.2,0.45,2024,PCX
+FRELZ3,Fidelity MSCI Real Estate Index ETF Core,Fidelity Investments,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.55,2.21,4.05,1993,PCX
+XLBD1,State Street Materials Select Sector SPDR ETF II,State Street Investment Management,Equity,Diversified,Blend,Mid-Cap,US,Diversified,High,0.5,9.22,1.45,2024,PCX
+FRELX4,Fidelity MSCI Real Estate Index ETF Core,Fidelity Investments,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.48,1.53,3.41,1993,PCX
+SCHFX5,Schwab International Equity ETF Select,Schwab ETFs,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.46,90.63,2.14,1993,PCX
+FCOMZ3,Fidelity MSCI Communication Services Index ETF II,Fidelity Investments,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.48,0.55,0.68,1993,PCX
+FCOMX8,Fidelity MSCI Communication Services Index ETF Core,Fidelity Investments,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Medium,0.46,2.77,0.79,1993,PCX
+FUTYA8,Fidelity MSCI Utilities Index ETF Plus,Fidelity Investments,Equity,Utilities,Growth,Multi-Cap,US,Utilities,Very High,0.69,3.39,2.28,1993,PCX
+FMATY3,Fidelity MSCI Materials Index ETF Enhanced,Fidelity Investments,Equity,Diversified,Value,Multi-Cap,US,Diversified,Medium,0.64,0.55,1.1,1993,PCX
+IDUB7,iShares U.S. Utilities ETF Core,iShares,Equity,Utilities,Blend,Mid-Cap,US,Utilities,Medium,0.63,1.49,1.63,2024,PCX
+PXED5,Invesco Dynamic Energy Exploration & Production ETF Core,iShares,Equity,Energy,Blend,Mid-Cap,US,Energy,Medium,0.67,0.13,2.6,1993,PCX
+IYHA9,iShares U.S. Healthcare ETF Select,WisdomTree,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Low,0.74,4.77,0.95,2024,PCX
+SPTMY1,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF Enhanced,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Low,0.73,22.7,1.19,2024,PCX
+FENYX4,Fidelity MSCI Energy Index ETF Enhanced,ARK,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.73,3.28,2.65,1993,PCX
+XLUB6,State Street Utilities Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Utilities,Growth,Multi-Cap,US,Utilities,High,0.53,16.81,2.27,2024,PCX
+VTIB8,Vanguard Total Stock Market Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Low,0.54,1275.97,1.2,2024,PCX
+XLCZ3,State Street Communication Services Select Sector SPDR ETF II,ProShares,Equity,Telecom,Growth,Multi-Cap,US,Telecom,Medium,0.52,32.57,1.08,1993,PCX
+IYED5,iShares U.S. Energy ETF Enhanced,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.7,2.48,2.4,2024,PCX
+IEFAZ5,iShares Core MSCI EAFE ETF Select,iShares,Equity,Diversified,Blend,Large-Cap,International,Diversified,Very High,0.55,92.89,3.81,1993,BTS
+XARB5,State Street SPDR S&P Aerospace & Defense ETF II,Schwab,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.49,9.18,0.39,1993,PCX
+IYKZ4,iShares US Consumer Staples ETF Core,iShares,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,Medium,0.69,0.84,2.69,2024,PCX
+FMATC9,Fidelity MSCI Materials Index ETF Core,Fidelity Investments,Equity,Diversified,Value,Multi-Cap,US,Diversified,Very High,0.58,0.22,1.16,1993,PCX
+XLVD1,State Street Health Care Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Healthcare,Blend,Mid-Cap,US,Healthcare,Very High,0.67,80.81,1.31,2024,PCX
+VDED1,Vanguard Energy Index Fund ETF Shares II,Schwab,Equity,Energy,Growth,Multi-Cap,US,Energy,Medium,0.64,13.7,2.79,1993,PCX
+IWRX9,iShares Russell Mid-Cap ETF Plus,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.45,28.72,1.47,2024,PCX
+SCHMY7,Schwab U.S. Mid-Cap ETF II,Direxion,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.7,11.75,1.26,1993,PCX
+IVOOA5,Vanguard S&P Mid-Cap 400 Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.72,2.01,1.11,1993,PCX
+XLCB3,State Street Communication Services Select Sector SPDR ETF Plus,Invesco,Equity,Telecom,Blend,Small-Cap,US,Telecom,Medium,0.46,24.96,1.37,1993,PCX
+FENYD5,Fidelity MSCI Energy Index ETF Plus,Fidelity Investments,Equity,Energy,Growth,Multi-Cap,US,Energy,High,0.45,1.55,2.08,1993,PCX
+XLKX9,State Street Technology Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Technology,Blend,Small-Cap,US,Technology,Very High,0.51,35.27,0.43,2024,PCX
+KREB4,State Street SPDR S&P Regional Banking ETF Select,State Street Investment Management,Equity,Financial,Blend,Mid-Cap,US,Financial,Medium,0.66,3.83,1.72,1993,PCX
+VTWOD7,Vanguard Russell 2000 Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,High,0.58,4.56,0.91,1993,NGM
+SCHAX9,Schwab U.S. Small-Cap ETF Plus,Schwab ETFs,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.7,24.62,1.08,1993,PCX
+IYKA9,iShares US Consumer Staples ETF Enhanced,iShares,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,Medium,0.73,1.58,2.25,2024,PCX
+FSTAB6,Fidelity MSCI Consumer Staples Index ETF Core,Fidelity Investments,Equity,Consumer Staples,Blend,Mid-Cap,US,Consumer Staples,Very High,0.72,1.42,1.48,1993,PCX
+IYFY1,iShares U.S. Financials ETF Enhanced,iShares,Equity,Financial,Blend,Mid-Cap,US,Financial,Medium,0.65,3.16,1.57,2024,PCX
+RTHB5,VanEck Retail ETF Core,VanEck,Equity,Consumer Staples,Blend,Mid-Cap,US,Consumer Staples,Medium,0.46,0.27,1.04,1993,NGM
+VEAX3,Vanguard FTSE Developed Markets Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Blend,Multi-Cap,International,Diversified,Medium,0.57,351.02,3.41,1993,PCX
+IYKC8,iShares US Consumer Staples ETF Enhanced,SPDR,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.7,1.08,2.15,2024,PCX
+VOOC6,Vanguard S&P 500 ETF II,Vanguard,Equity,Diversified,Value,Mid-Cap,US,Diversified,Medium,0.43,2889.97,0.82,1993,PCX
+PXEB5,Invesco Dynamic Energy Exploration & Production ETF Select,WisdomTree,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.74,0.07,2.3,1993,PCX
+ARKWA6,ARK Next Generation Internet ETF Enhanced,WisdomTree,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.66,1.81,1.73,1993,BTS
+VDCC1,Vanguard Consumer Staples Index Fund ETF Shares Core,Vanguard,Equity,Consumer Staples,Value,Small-Cap,US,Consumer Staples,Medium,0.62,16.64,1.65,1993,PCX
+FIDUA2,Fidelity MSCI Industrials Index ETF Select,VanEck,Equity,Industrial,Value,Multi-Cap,US,Industrial,High,0.62,2.73,1.02,1993,PCX
+IYJD3,iShares U.S. Industrials ETF II,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.74,1.62,0.84,2024,BTS
+KBEC3,State Street SPDR S&P Bank ETF Enhanced,State Street Investment Management,Equity,Financial,Blend,Large-Cap,US,Financial,Medium,0.44,1.48,2.33,1993,PCX
+SPTMY2,State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF Core,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.45,8.6,1.24,2024,PCX
+FENYZ9,Fidelity MSCI Energy Index ETF II,ARK,Equity,Energy,Blend,Multi-Cap,US,Energy,High,0.74,2.77,2.86,1993,PCX
+FUTYY4,Fidelity MSCI Utilities Index ETF Select,Vanguard,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.49,3.74,2.11,1993,PCX
+VNQA4,Vanguard Real Estate Index Fund ETF Shares Select,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.57,50.57,3.24,1993,PCX
+XLREY2,State Street Real Estate Select Sector SPDR ETF Select,SPDR,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.43,8.31,4.12,1993,PCX
+MDYD7,State Street SPDR S&P MIDCAP 400 ETF Trust Core,State Street Investment Management,Equity,Diversified,Blend,Multi-Cap,US,Diversified,High,0.41,28.71,0.96,2024,PCX
+PICKB1,iShares MSCI Global Metals & Mining Producers ETF Plus,Invesco,Equity,Diversified,Value,Multi-Cap,US,Diversified,Medium,0.71,1.68,2.85,1993,BTS
+IYJA8,iShares U.S. Industrials ETF Select,iShares,Equity,Industrial,Blend,Large-Cap,US,Industrial,Medium,0.74,1.91,0.79,2024,BTS
+XLYY5,State Street Consumer Discretionary Select Sector SPDR ETF Select,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Very High,0.41,13.32,0.77,2024,PCX
+FHLCA8,Fidelity MSCI Health Care Index ETF Enhanced,ARK,Equity,Healthcare,Blend,Small-Cap,US,Healthcare,Medium,0.59,3.9,1.33,1993,PCX
+XBIY9,State Street SPDR S&P Biotech ETF Select,State Street Investment Management,Equity,Healthcare,Growth,Multi-Cap,US,Healthcare,Medium,0.61,7.59,0.4,1993,PCX
+KXIZ8,iShares Global Consumer Staples ETF Enhanced,Schwab,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Very High,0.74,1.91,2.29,1993,PCX
+PICKB1,iShares MSCI Global Metals & Mining Producers ETF II,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.72,1.36,2.01,1993,BTS
+IGVY7,iShares Expanded Tech-Software Sector ETF Plus,iShares,Equity,Technology,Value,Mid-Cap,US,Technology,Medium,0.61,4.17,0.0,2024,BTS
+VXUSZ9,Vanguard Total International Stock Index Fund ETF Shares Core,iShares,Equity,Diversified,Growth,Small-Cap,International,Diversified,Medium,0.56,601.15,2.94,1993,NGM
+EFAB4,iShares MSCI EAFE ETF Core,iShares,Equity,Diversified,Blend,Multi-Cap,International,Diversified,Medium,0.49,92.56,3.87,2024,PCX
+VEAC7,Vanguard FTSE Developed Markets Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.43,494.91,3.49,1993,PCX
+XARY3,State Street SPDR S&P Aerospace & Defense ETF Core,State Street Investment Management,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.64,4.57,0.34,1993,PCX
+SCHHD8,Schwab U.S. REIT ETF Select,Schwab ETFs,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.7,5.12,2.45,1993,PCX
+PICKY7,iShares MSCI Global Metals & Mining Producers ETF Plus,iShares,Equity,Diversified,Value,Large-Cap,US,Diversified,Medium,0.52,3.93,1.9,1993,BTS
+IYCZ7,iShares US Consumer Discretionary ETF Core,WisdomTree,Equity,Consumer Staples,Blend,Mid-Cap,US,Consumer Staples,Low,0.41,2.52,0.64,2024,PCX
+XLREX4,State Street Real Estate Select Sector SPDR ETF Select,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.69,13.88,2.41,1993,PCX
+VISD3,Vanguard Industrials Index Fund ETF Shares Core,Vanguard,Equity,Industrial,Growth,Multi-Cap,US,Industrial,Medium,0.69,15.41,0.92,1993,PCX
+IEFAX6,iShares Core MSCI EAFE ETF II,iShares,Equity,Diversified,Blend,Small-Cap,International,Diversified,Medium,0.7,291.7,3.77,1993,BTS
+ARKGB1,ARK Genomic Revolution ETF II,ARK ETF Trust,Equity,Healthcare,Blend,Small-Cap,US,Healthcare,Medium,0.42,0.8,0.0,1993,BTS
+IYEX1,iShares U.S. Energy ETF Plus,Invesco,Equity,Energy,Blend,Large-Cap,US,Energy,Medium,0.72,2.14,1.62,2024,PCX
+QQQC5,Invesco QQQ Trust Plus,WisdomTree,Equity,Diversified,Value,Large-Cap,US,Diversified,Medium,0.48,434.39,0.51,2024,NGM
+SPLGD4,State Street SPDR Portfolio S&P 500 ETF Select,Vanguard,Equity,Diversified,Blend,Small-Cap,US,Diversified,Very High,0.58,181.09,0.91,1993,PCX
+XOPY6,State Street SPDR S&P Oil & Gas Exploration & Production ETF II,State Street Investment Management,Equity,Energy,Value,Mid-Cap,US,Energy,Medium,0.53,1.2,1.91,1993,PCX
+IJHX3,iShares Core S&P Mid-Cap ETF Enhanced,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Very High,0.41,176.88,1.01,2024,PCX
+XLIB6,State Street Industrial Select Sector SPDR ETF Select,First Trust,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.51,51.39,1.41,2024,PCX
+IYEB7,iShares U.S. Energy ETF Plus,iShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.46,0.89,2.63,2024,PCX
+VDEZ8,Vanguard Energy Index Fund ETF Shares II,Vanguard,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.52,13.45,3.02,1993,PCX
+KXID8,iShares Global Consumer Staples ETF Enhanced,iShares,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.71,1.91,2.29,1993,PCX
+ITAY6,iShares U.S. Aerospace & Defense ETF II,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.55,11.86,0.46,1993,BTS
+IYFC7,iShares U.S. Financials ETF Enhanced,iShares,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.51,6.15,1.28,2024,PCX
+XARY2,State Street SPDR S&P Aerospace & Defense ETF Select,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.62,12.27,0.33,1993,PCX
+FSTAC2,Fidelity MSCI Consumer Staples Index ETF II,Vanguard,Equity,Consumer Staples,Value,Mid-Cap,US,Consumer Staples,Medium,0.62,0.77,2.54,1993,PCX
+IYWC1,iShares U.S. Technology ETF Core,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.57,29.5,0.11,2024,PCX
+VISY2,Vanguard Industrials Index Fund ETF Shares Select,Vanguard,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.71,13.33,0.76,1993,PCX
+VNQC2,Vanguard Real Estate Index Fund ETF Shares Core,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.61,45.52,4.4,1993,PCX
+XLVB2,State Street Health Care Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.71,44.98,1.83,2024,PCX
+SCHXC8,Schwab U.S. Large-Cap ETF Core,SPDR,Equity,Diversified,Value,Small-Cap,US,Diversified,Medium,0.42,20.73,1.16,1993,PCX
+XLKA9,State Street Technology Select Sector SPDR ETF Core,Vanguard,Equity,Technology,Blend,Mid-Cap,US,Technology,Very High,0.64,46.42,0.51,2024,PCX
+VCRY8,Vanguard Consumer Discretionary Index Fund ETF Shares Enhanced,Vanguard,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,Low,0.55,10.7,0.82,1993,PCX
+SLYGD6,State Street SPDR S&P 600 Small Cap Growth ETF Select,State Street Investment Management,Equity,Diversified,Growth,Small-Cap,US,Diversified,High,0.72,8.26,0.7,2024,PCX
+SCHMC2,Schwab U.S. Mid-Cap ETF Core,Schwab ETFs,Equity,Diversified,Blend,Small-Cap,US,Diversified,Low,0.75,16.15,1.43,1993,PCX
+IBBD1,iShares Biotechnology ETF Core,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.49,6.85,0.18,2024,NGM
+SMHX6,VanEck Semiconductor ETF Enhanced,VanEck,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.48,40.4,0.33,1993,NGM
+ICFZ7,iShares Select U.S. REIT ETF Select,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Very High,0.69,0.8,3.08,2024,BTS
+IYZB8,iShares U.S. Telecommunications ETF Enhanced,iShares,Equity,Telecom,Blend,Multi-Cap,US,Telecom,Low,0.52,1.43,1.83,2024,BTS
+XOPZ9,State Street SPDR S&P Oil & Gas Exploration & Production ETF Core,State Street Investment Management,Equity,Energy,Blend,Multi-Cap,US,Energy,Low,0.55,1.34,2.41,1993,PCX
+SCHAC8,Schwab U.S. Small-Cap ETF II,Schwab ETFs,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.49,21.97,1.45,1993,PCX
+XLEX8,State Street Energy Select Sector SPDR ETF Core,Direxion,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.4,37.13,2.67,2024,PCX
+ARKWA1,ARK Next Generation Internet ETF II,ARK ETF Trust,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.42,0.95,2.39,1993,BTS
+IYMY7,iShares U.S. Basic Materials ETF Plus,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,High,0.41,0.73,1.43,2024,PCX
+QQQD6,Invesco QQQ Trust Enhanced,Invesco,Equity,Diversified,Growth,Large-Cap,US,Diversified,Medium,0.62,306.27,0.43,2024,NGM
+XLPA1,State Street Consumer Staples Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Very High,0.68,28.82,2.18,2024,PCX
+VXUSX1,Vanguard Total International Stock Index Fund ETF Shares Select,Global X,Equity,Diversified,Blend,Small-Cap,International,Diversified,Medium,0.61,903.22,2.18,1993,NGM
+VGTC6,Vanguard Information Technology Index Fund ETF Shares II,Vanguard,Equity,Technology,Growth,Multi-Cap,US,Technology,Medium,0.59,126.31,0.5,1993,PCX
+XLPX4,State Street Consumer Staples Select Sector SPDR ETF II,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Low,0.49,6.34,3.05,2024,PCX
+KXID2,iShares Global Consumer Staples ETF Select,iShares,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.56,1.55,2.38,1993,PCX
+XLPA2,State Street Consumer Staples Select Sector SPDR ETF Enhanced,Global X,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.64,20.61,1.92,2024,PCX
+FENYA6,Fidelity MSCI Energy Index ETF Plus,Fidelity Investments,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.41,0.88,2.31,1993,PCX
+ITAZ4,iShares U.S. Aerospace & Defense ETF Plus,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.61,13.29,0.34,1993,BTS
+ICLND7,iShares Global Clean Energy ETF Plus,iShares,Equity,Diversified,Growth,Multi-Cap,US,Diversified,Medium,0.73,2.15,1.83,1993,NGM
+EFAY5,iShares MSCI EAFE ETF Plus,iShares,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.62,65.14,3.73,2024,PCX
+VNQB3,Vanguard Real Estate Index Fund ETF Shares Plus,WisdomTree,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.53,34.58,3.04,1993,PCX
+FUTYY6,Fidelity MSCI Utilities Index ETF Enhanced,iShares,Equity,Utilities,Blend,Multi-Cap,US,Utilities,High,0.62,4.85,3.0,1993,PCX
+XLUZ9,State Street Utilities Select Sector SPDR ETF Core,Vanguard,Equity,Utilities,Blend,Multi-Cap,US,Utilities,Medium,0.42,17.21,3.11,2024,PCX
+SCHMC2,Schwab U.S. Mid-Cap ETF Select,Schwab ETFs,Equity,Diversified,Blend,Small-Cap,US,Diversified,Low,0.56,24.59,1.07,1993,PCX
+IGVD6,iShares Expanded Tech-Software Sector ETF Plus,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.45,9.59,0.0,2024,BTS
+IEOA9,iShares U.S. Oil & Gas Exploration & Production ETF Select,iShares,Equity,Energy,Growth,Multi-Cap,US,Energy,Very High,0.7,0.59,2.23,1993,BTS
+IYHA9,iShares U.S. Healthcare ETF Select,iShares,Equity,Healthcare,Growth,Large-Cap,US,Healthcare,Medium,0.64,1.63,1.48,2024,PCX
+XLPD6,State Street Consumer Staples Select Sector SPDR ETF Enhanced,Invesco,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,Very High,0.74,8.58,2.99,2024,PCX
+XLYY6,State Street Consumer Discretionary Select Sector SPDR ETF II,Vanguard,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.69,13.42,1.0,2024,PCX
+VNQX3,Vanguard Real Estate Index Fund ETF Shares Enhanced,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.59,134.21,2.65,1993,PCX
+VGTC8,Vanguard Information Technology Index Fund ETF Shares Core,Vanguard,Equity,Technology,Blend,Multi-Cap,US,Technology,Very High,0.53,70.41,0.49,1993,PCX
+QQQY9,Invesco QQQ Trust Plus,Direxion,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.42,354.29,0.53,2024,NGM
+XLKC3,State Street Technology Select Sector SPDR ETF Select,State Street Investment Management,Equity,Technology,Value,Multi-Cap,US,Technology,Low,0.48,167.18,0.66,2024,PCX
+IBBD2,iShares Biotechnology ETF Enhanced,iShares,Equity,Healthcare,Blend,Large-Cap,US,Healthcare,Medium,0.69,3.55,0.28,2024,NGM
+XLYB8,State Street Consumer Discretionary Select Sector SPDR ETF Select,State Street Investment Management,Equity,Consumer Staples,Value,Mid-Cap,US,Consumer Staples,Medium,0.4,10.44,1.05,2024,PCX
+MDYX9,State Street SPDR S&P MIDCAP 400 ETF Trust Enhanced,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.55,20.65,1.26,2024,PCX
+XARB6,State Street SPDR S&P Aerospace & Defense ETF II,State Street Investment Management,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Very High,0.55,9.17,0.32,1993,PCX
+IWMY3,iShares Russell 2000 ETF Select,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Low,0.6,58.07,0.85,2024,PCX
+IBBX3,iShares Biotechnology ETF II,iShares,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.6,12.66,0.27,2024,NGM
+VHTA4,Vanguard Health Care Index Fund ETF Shares Select,Direxion,Equity,Healthcare,Value,Multi-Cap,US,Healthcare,Medium,0.74,28.09,1.17,1993,PCX
+EFAA3,iShares MSCI EAFE ETF Core,iShares,Equity,Diversified,Value,Large-Cap,International,Diversified,Medium,0.65,115.66,3.94,2024,PCX
+VAWC1,Vanguard Materials Index Fund ETF Shares Enhanced,ARK,Equity,Diversified,Blend,Multi-Cap,US,Diversified,High,0.53,7.8,1.06,1993,PCX
+IJHC3,iShares Core S&P Mid-Cap ETF II,iShares,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.46,122.69,1.24,2024,PCX
+XLPC7,State Street Consumer Staples Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Consumer Staples,Blend,Small-Cap,US,Consumer Staples,Medium,0.67,16.15,2.68,2024,PCX
+ACWIA1,iShares MSCI ACWI ETF Select,iShares,Equity,Diversified,Blend,Mid-Cap,Global,Diversified,Medium,0.43,32.44,1.66,1993,NGM
+IYMD8,iShares U.S. Basic Materials ETF II,iShares,Equity,Diversified,Value,Large-Cap,US,Diversified,Medium,0.51,1.16,1.56,2024,PCX
+EFAD1,iShares MSCI EAFE ETF Plus,iShares,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.71,69.61,3.11,2024,PCX
+XLYB8,State Street Consumer Discretionary Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.61,19.58,0.91,2024,PCX
+XLEZ2,State Street Energy Select Sector SPDR ETF II,ARK,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.42,36.49,3.11,2024,PCX
+IDUY2,iShares U.S. Utilities ETF Core,iShares,Equity,Utilities,Value,Small-Cap,US,Utilities,Medium,0.56,2.8,1.95,2024,PCX
+IGVX3,iShares Expanded Tech-Software Sector ETF Core,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.59,6.24,0.0,2024,BTS
+RWRB9,State Street SPDR Dow Jones REIT ETF Enhanced,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.59,2.55,4.13,2024,PCX
+SMHY6,VanEck Semiconductor ETF II,Global X,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.53,40.42,0.27,1993,NGM
+VNQC9,Vanguard Real Estate Index Fund ETF Shares Core,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.41,87.66,2.63,1993,PCX
+ARKWC6,ARK Next Generation Internet ETF Enhanced,iShares,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.54,1.45,1.45,1993,BTS
+SOXXD6,iShares Semiconductor ETF Core,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.44,36.01,0.53,2024,NGM
+IYRD1,iShares U.S. Real Estate ETF Plus,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,High,0.64,4.29,2.34,2024,PCX
+VHTA1,Vanguard Health Care Index Fund ETF Shares Enhanced,Vanguard,Equity,Healthcare,Blend,Large-Cap,US,Healthcare,Medium,0.68,18.49,1.95,1993,PCX
+VTWOX3,Vanguard Russell 2000 Index Fund ETF Shares Core,Vanguard,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.56,6.06,1.26,1993,NGM
+VISY1,Vanguard Industrials Index Fund ETF Shares Plus,ARK,Equity,Industrial,Growth,Mid-Cap,US,Industrial,Very High,0.69,7.83,0.67,1993,PCX
+VDCC5,Vanguard Consumer Staples Index Fund ETF Shares Enhanced,Vanguard,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,High,0.67,3.46,1.98,1993,PCX
+VFHD9,Vanguard Financials Index Fund ETF Shares Core,Vanguard,Equity,Financial,Blend,Mid-Cap,US,Financial,Very High,0.6,25.88,1.29,1993,PCX
+IYHB3,iShares U.S. Healthcare ETF Enhanced,Vanguard,Equity,Healthcare,Value,Multi-Cap,US,Healthcare,Medium,0.58,3.14,1.39,2024,PCX
+IAIB3,iShares U.S. Broker-Dealers & Securities Exchanges ETF Select,iShares,Equity,Financial,Blend,Small-Cap,US,Financial,Medium,0.68,2.6,1.29,1993,PCX
+VTWOZ9,Vanguard Russell 2000 Index Fund ETF Shares Enhanced,SPDR,Equity,Diversified,Value,Small-Cap,US,Diversified,High,0.54,26.9,1.36,1993,NGM
+IYJD6,iShares U.S. Industrials ETF Core,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.73,2.5,0.87,2024,BTS
+IVVD5,iShares Core S&P 500 ETF Enhanced,VanEck,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Low,0.5,352.41,1.31,2024,PCX
+IGVA8,iShares Expanded Tech-Software Sector ETF II,iShares,Equity,Technology,Blend,Large-Cap,US,Technology,Medium,0.67,13.24,0.0,2024,BTS
+FRELB9,Fidelity MSCI Real Estate Index ETF II,SPDR,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Low,0.41,2.57,3.88,1993,PCX
+IYMY3,iShares U.S. Basic Materials ETF Enhanced,WisdomTree,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.68,0.53,1.58,2024,PCX
+FIDUA8,Fidelity MSCI Industrials Index ETF Select,Fidelity Investments,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.67,2.85,1.04,1993,PCX
+ACWIZ2,iShares MSCI ACWI ETF Enhanced,iShares,Equity,Diversified,Value,Large-Cap,Global,Diversified,Medium,0.71,16.04,1.06,1993,NGM
+IYCY2,iShares US Consumer Discretionary ETF Plus,iShares,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Medium,0.5,2.08,0.55,2024,PCX
+IYEA7,iShares U.S. Energy ETF Enhanced,iShares,Equity,Energy,Blend,Mid-Cap,US,Energy,Medium,0.55,1.84,2.49,2024,PCX
+IYJC5,iShares U.S. Industrials ETF II,iShares,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.47,3.03,0.8,2024,BTS
+IYMC8,iShares U.S. Basic Materials ETF Select,iShares,Equity,Diversified,Value,Multi-Cap,US,Diversified,Medium,0.43,1.76,1.16,2024,PCX
+PXEC7,Invesco Dynamic Energy Exploration & Production ETF Select,VanEck,Equity,Energy,Blend,Multi-Cap,US,Energy,High,0.74,0.06,1.81,1993,PCX
+FSTAY8,Fidelity MSCI Consumer Staples Index ETF II,Fidelity Investments,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.66,0.54,1.61,1993,PCX
+MDYD3,State Street SPDR S&P MIDCAP 400 ETF Trust II,State Street Investment Management,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,8.84,0.8,2024,PCX
+XLPZ9,State Street Consumer Staples Select Sector SPDR ETF Plus,Vanguard,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Low,0.48,17.01,1.93,2024,PCX
+XLKC8,State Street Technology Select Sector SPDR ETF Core,iShares,Equity,Technology,Blend,Small-Cap,US,Technology,Medium,0.62,172.75,0.44,2024,PCX
+XLYZ6,State Street Consumer Discretionary Select Sector SPDR ETF Plus,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Very High,0.65,45.25,0.82,2024,PCX
+XLEY3,State Street Energy Select Sector SPDR ETF Select,Direxion,Equity,Energy,Blend,Mid-Cap,US,Energy,Very High,0.47,56.51,2.04,2024,PCX
+ARKKZ3,ARK Innovation ETF Select,ARK ETF Trust,Equity,Diversified,Growth,Mid-Cap,US,Diversified,High,0.55,5.07,0.0,1993,BTS
+XLCZ6,State Street Communication Services Select Sector SPDR ETF Plus,iShares,Equity,Telecom,Blend,Small-Cap,US,Telecom,Very High,0.57,27.54,1.26,1993,PCX
+VHTB6,Vanguard Health Care Index Fund ETF Shares Enhanced,Vanguard,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.73,39.3,1.59,1993,PCX
+XLUC1,State Street Utilities Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Utilities,Value,Multi-Cap,US,Utilities,Medium,0.53,13.72,2.38,2024,PCX
+SPYD6,State Street SPDR S&P 500 ETF Trust Select,State Street Investment Management,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.65,1280.27,0.78,2024,PCX
+IJRA8,iShares Core S&P Small-Cap ETF Select,iShares,Equity,Diversified,Value,Small-Cap,US,Diversified,High,0.44,173.16,1.65,2024,PCX
+IJRD3,iShares Core S&P Small-Cap ETF Select,iShares,Equity,Diversified,Value,Small-Cap,US,Diversified,High,0.58,100.37,1.18,2024,PCX
+FENYA1,Fidelity MSCI Energy Index ETF II,Fidelity Investments,Equity,Energy,Blend,Multi-Cap,US,Energy,Low,0.55,1.08,1.8,1993,PCX
+IVVY3,iShares Core S&P 500 ETF Select,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,High,0.56,629.72,0.92,2024,PCX
+VBD9,Vanguard Small-Cap Index Fund ETF Shares Select,First Trust,Equity,Diversified,Blend,Large-Cap,US,Diversified,High,0.63,158.68,1.56,1993,PCX
+IJHD1,iShares Core S&P Mid-Cap ETF Select,iShares,Equity,Diversified,Growth,Mid-Cap,US,Diversified,Medium,0.65,106.54,0.91,2024,PCX
+IXUSD4,iShares Core MSCI Total International Stock ETF II,Invesco,Equity,Diversified,Blend,Multi-Cap,International,Diversified,Medium,0.65,81.17,3.3,1993,NGM
+VFHZ3,Vanguard Financials Index Fund ETF Shares Select,Vanguard,Equity,Financial,Value,Mid-Cap,US,Financial,Medium,0.67,7.2,2.06,1993,PCX
+IEFAA5,iShares Core MSCI EAFE ETF Plus,Direxion,Equity,Diversified,Blend,Large-Cap,International,Diversified,Very High,0.45,274.62,2.9,1993,BTS
+IYMY2,iShares U.S. Basic Materials ETF Select,iShares,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.58,2.79,1.12,2024,PCX
+VOB7,Vanguard Mid-Cap Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.44,221.19,1.48,1993,PCX
+VBB1,Vanguard Small-Cap Index Fund ETF Shares Plus,Vanguard,Equity,Diversified,Value,Small-Cap,US,Diversified,Low,0.74,272.46,1.19,1993,PCX
+SCHHD8,Schwab U.S. REIT ETF II,Schwab ETFs,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.7,10.03,3.29,1993,PCX
+XLVX1,State Street Health Care Select Sector SPDR ETF II,WisdomTree,Equity,Healthcare,Blend,Small-Cap,US,Healthcare,Medium,0.67,41.8,1.28,2024,PCX
+IYWA4,iShares U.S. Technology ETF Enhanced,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.42,14.13,0.15,2024,PCX
+ARKWZ5,ARK Next Generation Internet ETF Enhanced,VanEck,Equity,Diversified,Blend,Large-Cap,US,Diversified,High,0.62,1.25,1.33,1993,BTS
+RWRX4,State Street SPDR Dow Jones REIT ETF Plus,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.63,0.63,3.78,2024,PCX
+FNCLC4,Fidelity MSCI Financials Index ETF II,Global X,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.72,3.81,1.19,1993,PCX
+XLFB1,State Street Financial Select Sector SPDR ETF Enhanced,State Street Investment Management,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.7,80.11,1.36,2024,PCX
+FENYY8,Fidelity MSCI Energy Index ETF Enhanced,Fidelity Investments,Equity,Energy,Growth,Small-Cap,US,Energy,Medium,0.7,1.32,2.61,1993,PCX
+SMHC1,VanEck Semiconductor ETF II,Vanguard,Equity,Technology,Value,Mid-Cap,US,Technology,Medium,0.56,51.96,0.33,1993,NGM
+XLPA4,State Street Consumer Staples Select Sector SPDR ETF Core,Invesco,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,High,0.59,18.68,2.45,2024,PCX
+IWMB6,iShares Russell 2000 ETF Select,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.67,110.62,0.73,2024,PCX
+XLBY2,State Street Materials Select Sector SPDR ETF Select,VanEck,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.52,7.01,1.38,2024,PCX
+IJRZ2,iShares Core S&P Small-Cap ETF Core,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,Medium,0.66,164.27,1.21,2024,PCX
+FNCLC9,Fidelity MSCI Financials Index ETF Select,Fidelity Investments,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.68,1.81,1.35,1993,PCX
+VDCY7,Vanguard Consumer Staples Index Fund ETF Shares II,Vanguard,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.61,19.62,2.03,1993,PCX
+IYJY1,iShares U.S. Industrials ETF Core,iShares,Equity,Industrial,Value,Multi-Cap,US,Industrial,Medium,0.69,3.6,0.54,2024,BTS
+VNQY8,Vanguard Real Estate Index Fund ETF Shares Enhanced,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.59,107.5,4.36,1993,PCX
+RWRC4,State Street SPDR Dow Jones REIT ETF Plus,SPDR,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Low,0.52,2.21,4.28,2024,PCX
+FSTAZ8,Fidelity MSCI Consumer Staples Index ETF Enhanced,Fidelity Investments,Equity,Consumer Staples,Blend,Large-Cap,US,Consumer Staples,Medium,0.68,2.47,1.6,1993,PCX
+VNQD5,Vanguard Real Estate Index Fund ETF Shares II,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.59,75.57,4.62,1993,PCX
+RTHX5,VanEck Retail ETF Select,VanEck,Equity,Consumer Staples,Growth,Multi-Cap,US,Consumer Staples,Medium,0.69,0.46,1.08,1993,NGM
+IXUSY4,iShares Core MSCI Total International Stock ETF Plus,iShares,Equity,Diversified,Growth,Large-Cap,International,Diversified,Medium,0.61,34.95,3.65,1993,NGM
+VDCZ4,Vanguard Consumer Staples Index Fund ETF Shares Select,Vanguard,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.57,13.01,1.66,1993,PCX
+XARX1,State Street SPDR S&P Aerospace & Defense ETF Core,State Street Investment Management,Equity,Industrial,Blend,Multi-Cap,US,Industrial,Medium,0.54,6.13,0.33,1993,PCX
+XLFB6,State Street Financial Select Sector SPDR ETF Core,State Street Investment Management,Equity,Financial,Blend,Large-Cap,US,Financial,Medium,0.48,53.94,1.79,2024,PCX
+XRTY3,State Street SPDR S&P Retail ETF II,WisdomTree,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.73,0.7,0.69,1993,PCX
+ARKKC4,ARK Innovation ETF Select,Schwab,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.64,5.64,0.0,1993,BTS
+SPYD4,State Street SPDR S&P 500 ETF Trust Select,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,Medium,0.69,934.38,1.37,2024,PCX
+IYWX6,iShares U.S. Technology ETF Select,iShares,Equity,Technology,Blend,Multi-Cap,US,Technology,Medium,0.65,31.52,0.14,2024,PCX
+SCHHD1,Schwab U.S. REIT ETF Plus,Schwab ETFs,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.6,7.09,2.27,1993,PCX
+XRTB3,State Street SPDR S&P Retail ETF Select,State Street Investment Management,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,Medium,0.4,1.33,0.7,1993,PCX
+ICLNA6,iShares Global Clean Energy ETF II,WisdomTree,Equity,Diversified,Blend,Small-Cap,US,Diversified,Medium,0.48,1.2,1.71,1993,NGM
+VFHX8,Vanguard Financials Index Fund ETF Shares Plus,Vanguard,Equity,Financial,Value,Multi-Cap,US,Financial,Medium,0.54,14.61,1.91,1993,PCX
+VDEA6,Vanguard Energy Index Fund ETF Shares Select,Vanguard,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.69,20.97,1.81,1993,PCX
+FENYZ6,Fidelity MSCI Energy Index ETF Enhanced,Direxion,Equity,Energy,Blend,Large-Cap,US,Energy,Very High,0.47,3.25,2.77,1993,PCX
+VDEA7,Vanguard Energy Index Fund ETF Shares II,ProShares,Equity,Energy,Blend,Multi-Cap,US,Energy,Medium,0.4,9.76,1.91,1993,PCX
+FTECZ9,Fidelity MSCI Information Technology Index ETF Select,Fidelity Investments,Equity,Technology,Growth,Multi-Cap,US,Technology,Medium,0.42,9.54,0.32,1993,PCX
+VHTZ8,Vanguard Health Care Index Fund ETF Shares Core,WisdomTree,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.55,11.16,1.39,1993,PCX
+VTIZ7,Vanguard Total Stock Market Index Fund ETF Shares II,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.53,3612.81,0.91,2024,PCX
+IYFC8,iShares U.S. Financials ETF Core,First Trust,Equity,Financial,Blend,Small-Cap,US,Financial,Medium,0.64,1.81,1.18,2024,PCX
+IJRC6,iShares Core S&P Small-Cap ETF Enhanced,iShares,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.47,45.36,1.53,2024,PCX
+SLYGC3,State Street SPDR S&P 600 Small Cap Growth ETF Enhanced,State Street Investment Management,Equity,Diversified,Growth,Small-Cap,US,Diversified,High,0.73,3.27,0.57,2024,PCX
+ARKGD2,ARK Genomic Revolution ETF Enhanced,ARK ETF Trust,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.44,1.08,0.0,1993,BTS
+IYMA1,iShares U.S. Basic Materials ETF Core,iShares,Equity,Diversified,Growth,Multi-Cap,US,Diversified,Medium,0.68,0.81,0.89,2024,PCX
+VOD6,Vanguard Mid-Cap Index Fund ETF Shares Plus,ARK,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.54,366.27,1.58,1993,PCX
+VTWOD7,Vanguard Russell 2000 Index Fund ETF Shares Enhanced,Vanguard,Equity,Diversified,Blend,Multi-Cap,US,Diversified,High,0.54,7.38,0.93,1993,NGM
+VOOC1,Vanguard S&P 500 ETF II,Vanguard,Equity,Diversified,Blend,Large-Cap,US,Diversified,Medium,0.52,992.45,1.12,1993,PCX
+IYFB8,iShares U.S. Financials ETF Select,iShares,Equity,Financial,Blend,Multi-Cap,US,Financial,Medium,0.4,5.53,1.33,2024,PCX
+SCHFY3,Schwab International Equity ETF Enhanced,Schwab ETFs,Equity,Diversified,Blend,Multi-Cap,International,Diversified,Medium,0.71,111.18,3.63,1993,PCX
+VCRC9,Vanguard Consumer Discretionary Index Fund ETF Shares Select,Vanguard,Equity,Consumer Staples,Value,Multi-Cap,US,Consumer Staples,Medium,0.6,10.7,0.76,1993,PCX
+RWRB7,State Street SPDR Dow Jones REIT ETF II,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.68,2.03,2.59,2024,PCX
+ICFC8,iShares Select U.S. REIT ETF II,iShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.59,3.32,2.87,2024,BTS
+IGVC2,iShares Expanded Tech-Software Sector ETF Core,iShares,Equity,Technology,Blend,Mid-Cap,US,Technology,Medium,0.69,9.21,0.0,2024,BTS
+PICKZ1,iShares MSCI Global Metals & Mining Producers ETF Enhanced,iShares,Equity,Diversified,Value,Multi-Cap,US,Diversified,Medium,0.4,0.68,2.85,1993,BTS
+ARKKC7,ARK Innovation ETF Enhanced,ARK ETF Trust,Equity,Diversified,Growth,Multi-Cap,US,Diversified,Medium,0.53,8.17,0.0,1993,BTS
+VTWOY8,Vanguard Russell 2000 Index Fund ETF Shares Core,Vanguard,Equity,Diversified,Blend,Small-Cap,US,Diversified,High,0.61,24.82,0.93,1993,NGM
+EFAA5,iShares MSCI EAFE ETF Core,iShares,Equity,Diversified,Blend,Large-Cap,International,Diversified,Medium,0.4,30.81,2.78,2024,PCX
+IVVA9,iShares Core S&P 500 ETF Core,iShares,Equity,Diversified,Blend,Large-Cap,US,Diversified,Low,0.64,430.95,0.97,2024,PCX
+KXID6,iShares Global Consumer Staples ETF Plus,Schwab,Equity,Consumer Staples,Value,Mid-Cap,US,Consumer Staples,Medium,0.51,1.38,2.16,1993,PCX
+VNQB7,Vanguard Real Estate Index Fund ETF Shares Core,Vanguard,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.62,91.11,3.98,1993,PCX
+RWRD4,State Street SPDR Dow Jones REIT ETF II,ProShares,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.42,2.53,2.92,2024,PCX
+VOA6,Vanguard Mid-Cap Index Fund ETF Shares Core,SPDR,Equity,Diversified,Blend,Mid-Cap,US,Diversified,Medium,0.5,331.1,1.82,1993,PCX
+IAID7,iShares U.S. Broker-Dealers & Securities Exchanges ETF Enhanced,VanEck,Equity,Financial,Value,Multi-Cap,US,Financial,Medium,0.51,1.44,0.74,1993,PCX
+XLREC6,State Street Real Estate Select Sector SPDR ETF Plus,State Street Investment Management,Real Estate,Real Estate,Blend,Multi-Cap,US,Real Estate,Medium,0.46,3.32,2.5,1993,PCX
+XRTB3,State Street SPDR S&P Retail ETF Core,SPDR,Equity,Consumer Staples,Blend,Multi-Cap,US,Consumer Staples,High,0.62,0.63,0.8,1993,PCX
+XLVC5,State Street Health Care Select Sector SPDR ETF Core,State Street Investment Management,Equity,Healthcare,Blend,Multi-Cap,US,Healthcare,Medium,0.55,50.15,2.01,2024,PCX
