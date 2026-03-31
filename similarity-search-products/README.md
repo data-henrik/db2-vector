@@ -6,8 +6,8 @@ The demo currently uses shoes as product and properties like color, material, we
 
 **General flow**:
 - Setup, including Db2 database connection and creating a table
-- Generate fake product data
-- Generate vector embeddings for key features using a local ollama service
+- Generate fake product data or download actual data from Yahoo finance
+- Generate vector embeddings for key features using a local ollama service (or use new TO_EMBEDDING within Db2 to call out to LLM endpoint)
 - Add new [vector-based](https://www.ibm.com/docs/en/db2/12.1.0?topic=list-vector-values) embedding column to table, insert data
 - Perform some queries utilizing [vector distance search](https://www.ibm.com/docs/en/db2/12.1.0?topic=functions-vector-distance) for semantic product recommendation (what other products are similar?)
 - Cleanup
@@ -15,6 +15,7 @@ The demo currently uses shoes as product and properties like color, material, we
 **My blog posts on this demo:**
 - [Setup instructions](https://data-henrik.de/2025/09/db2-vector-similarity-search-setup/)
 - [Demo description](https://data-henrik.de/2025/09/db2-vector-similarity-search/)
+- [An update on using ETFs as example](https://data-henrik.de/2026/03/db2-vector-financial-research-etf/)
 
 # Setup
 You need access to a Db2 instance and database with minimum version 12.1.2 (Db2 12.1 modpack 2). This can be a local or remote server. I have tested it with Db2 12.1 Community Edition for Docker, see my blog post [Db2 12.1 Community Edition for Docker on Fedora](https://data-henrik.de/2025/01/db2-v12-community-edition-docker-linux/) for details and setup instructions.
