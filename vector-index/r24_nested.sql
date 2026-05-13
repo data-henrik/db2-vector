@@ -1,0 +1,13 @@
+SELECT id,
+    VECTOR_DISTANCE(
+        v,
+        (SELECT v from v_random24
+       FETCH FIRST 1 ROWS ONLY),
+        EUCLIDEAN
+    ) AS DISTANCE
+FROM
+    v_random24
+WHERE V IS NOT NULL
+ORDER BY
+    DISTANCE ASC
+FETCH approx FIRST 10 ROWS ONLY;

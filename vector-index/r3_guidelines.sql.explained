@@ -1,0 +1,495 @@
+DB2 Universal Database Version 12.1, 5622-044 (c) Copyright IBM Corp. 1991, 2024
+Licensed Material - Program Property of IBM
+IBM Db2 Explain Table Format Tool
+
+
+
+******************** EXPLAIN INSTANCE ********************
+
+DB2_VERSION:       12.01.5
+FORMATTED ON DB:   TESTDB
+SOURCE_NAME:       SQLC2Q32
+SOURCE_SCHEMA:     NULLID  
+SOURCE_VERSION:      
+EXPLAIN_TIME:      2026-05-13-14.49.51.317583
+EXPLAIN_REQUESTER: HLOESER 
+
+Database Context:
+----------------
+	Parallelism:          None
+	CPU Speed:            8.266025e-08
+	Comm Speed:           0
+	Buffer Pool size:     6003
+	Sort Heap size:       1005
+	Database Heap size:   5724
+	Lock List size:       31971
+	Maximum Lock List:    97
+	Average Applications: 1
+	Locks Available:      992379
+
+Package Context:
+---------------
+	SQL Type:           Dynamic
+	Optimization Level: 5
+	Blocking:           Block All Cursors
+	Isolation Level:    Cursor Stability
+
+
+
+---------------- STATEMENT 1  SECTION 201 ----------------
+	QUERYNO:       2
+	QUERYTAG:      CLP                 
+	Statement Type:   Select
+	Updatable:        No
+	Deletable:        No
+	Query Degree:     1
+
+Original Statement:
+------------------
+SELECT 
+  id,
+  VECTOR_DISTANCE(v, vector('[-1.02,0.95, 1.55]', 3, float32), EUCLIDEAN) AS DISTANCE 
+FROM 
+  v_random 
+ORDER BY 
+  DISTANCE ASC 
+FETCH approx FIRST 200 ROWS ONLY /* <OPTGUIDELINES> <IXSCAN TABLE='V_RANDOM'/> </OPTGUIDELINES> */
+
+
+Optimized Statement:
+-------------------
+SELECT 
+  Q2.ID AS "ID",
+  Q2.$C1 AS "DISTANCE" 
+FROM 
+  (SELECT 
+     Q1.ID,
+     VECTOR_DISTANCE(Q1.V, VECTOR('[-1.02,0.95, 1.55]', 3, FLOAT32), EUCLIDEAN) 
+   FROM 
+     HLOESER.V_RANDOM AS Q1
+  ) AS Q2 
+ORDER BY 
+  Q2.$C1
+
+Access Plan:
+-----------
+	Total Cost: 		752.321
+	Query Degree:		1
+
+
+              Rows 
+             RETURN
+             (   1)
+              Cost 
+               I/O 
+               |
+               200 
+             TBSCAN
+             (   2)
+             752.321 
+             457.19 
+               |
+               200 
+             SORT  
+             (   3)
+             752.317 
+             457.19 
+               |
+             300000 
+             FETCH 
+             (   4)
+             702.717 
+             457.19 
+           /---+----\
+       300000       300000 
+       IXSCAN   TABLE: HLOESER 
+       (   5)      V_RANDOM
+       309.235        Q1
+       181.19 
+         |
+       300000 
+   INDEX: SYSIBM  
+ SQL260513113136090
+         Q1
+
+
+
+Extended Diagnostic Information:
+--------------------------------
+
+No extended Diagnostic Information for this statement.
+
+
+Plan Details:
+-------------
+
+
+	1) RETURN: (Return Result)
+		Cumulative Total Cost: 		752.321
+		Cumulative CPU Cost: 		1.39239e+09
+		Cumulative I/O Cost: 		457.19
+		Cumulative Re-Total Cost: 	79.1602
+		Cumulative Re-CPU Cost: 	9.57657e+08
+		Cumulative Re-I/O Cost: 	0
+		Cumulative First Row Cost: 	752.317
+		Estimated Bufferpool Buffers: 	0
+
+		Arguments:
+		---------
+		BLDLEVEL: (Build level)
+			DB2 v12.1.5.0 : s2603192225
+		CPUCACHE: (Per-thread CPU cache size)
+			1572864
+		HEAPUSE : (Maximum Statement Heap Usage)
+			96 Pages
+		MAX CARD: (Maximum Cardinality)
+			200
+		PLANID  : (Access plan identifier)
+			6de9e2e7b4eccc18
+		PREPTIME: (Statement prepare time)
+			        12 milliseconds
+		SEMEVID : (Semantic environment identifier)
+			2d9f258bb428f653
+		STMTHEAP: (Statement heap size)
+			8192
+		STMTID  : (Normalized statement identifier)
+			8a8f5d6d4e20af53
+		TENANTID: (Compiled In Tenant ID)
+			0
+		TENANTNM: (Compiled In Tenant Name)
+			SYSTEM
+
+		Input Streams:
+		-------------
+			6) From Operator #2
+
+				Estimated number of rows: 	200
+				Number of columns: 		2
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q3.DISTANCE(A)+Q3.ID
+
+
+	2) TBSCAN: (Table Scan)
+		Cumulative Total Cost: 		752.321
+		Cumulative CPU Cost: 		1.39239e+09
+		Cumulative I/O Cost: 		457.19
+		Cumulative Re-Total Cost: 	79.1602
+		Cumulative Re-CPU Cost: 	9.57657e+08
+		Cumulative Re-I/O Cost: 	0
+		Cumulative First Row Cost: 	752.317
+		Estimated Bufferpool Buffers: 	0
+
+		Arguments:
+		---------
+		MAX CARD: (Maximum Cardinality)
+			200
+		MAXPAGES: (Maximum pages for prefetch)
+			ALL
+		PREFETCH: (Type of Prefetch)
+			NONE                
+		SCANDIR : (Scan Direction)
+			FORWARD
+		SPEED   : (Assumed speed of scan, in sharing structures)
+			SLOW
+		THROTTLE: (Scan may be throttled, for scan sharing)
+			FALSE
+		VISIBLE : (May be included in scan sharing structures)
+			FALSE
+		WRAPPING: (Scan may start anywhere and wrap)
+			FALSE
+
+		Input Streams:
+		-------------
+			5) From Operator #3
+
+				Estimated number of rows: 	200
+				Number of columns: 		2
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q2.DISTANCE(A)+Q2.ID
+
+
+		Output Streams:
+		--------------
+			6) To Operator #1
+
+				Estimated number of rows: 	200
+				Number of columns: 		2
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q3.DISTANCE(A)+Q3.ID
+
+
+	3) SORT  : (Sort)
+		Cumulative Total Cost: 		752.317
+		Cumulative CPU Cost: 		1.39234e+09
+		Cumulative I/O Cost: 		457.19
+		Cumulative Re-Total Cost: 	79.1559
+		Cumulative Re-CPU Cost: 	9.57606e+08
+		Cumulative Re-I/O Cost: 	0
+		Cumulative First Row Cost: 	752.317
+		Estimated Bufferpool Buffers: 	458
+
+		Arguments:
+		---------
+		DUPLWARN: (Duplicates Warning flag)
+			FALSE
+		KEYS    : (Key cardinality)
+			20
+		MAX CARD: (Maximum Cardinality)
+			200
+		NUMROWS : (Estimated number of rows)
+			200
+		ROWWIDTH: (Estimated width of rows)
+			16.000000
+		SORTKEY : (Sort Key column)
+			1: Q2.DISTANCE(A)
+		TEMPSIZE: (Temporary Table Page Size)
+			32768
+		TRUNCSRT: (Truncated sort (for Fetch First n Rows Only))
+			TRUE
+		UNIQUE  : (Uniqueness required flag)
+			FALSE
+
+		Input Streams:
+		-------------
+			4) From Operator #4
+
+				Estimated number of rows: 	300000
+				Number of columns: 		2
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q2.DISTANCE+Q2.ID
+
+
+		Output Streams:
+		--------------
+			5) To Operator #2
+
+				Estimated number of rows: 	200
+				Number of columns: 		2
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q2.DISTANCE(A)+Q2.ID
+
+
+	4) FETCH : (Fetch)
+		Cumulative Total Cost: 		702.717
+		Cumulative CPU Cost: 		7.92296e+08
+		Cumulative I/O Cost: 		457.19
+		Cumulative Re-Total Cost: 	65.2442
+		Cumulative Re-CPU Cost: 	7.89305e+08
+		Cumulative Re-I/O Cost: 	0
+		Cumulative First Row Cost: 	14.0955
+		Estimated Bufferpool Buffers: 	458
+
+		Arguments:
+		---------
+		CUR_COMM: (Currently Committed)
+			TRUE
+		LCKAVOID: (Lock Avoidance)
+			TRUE
+		MAXPAGES: (Maximum pages for prefetch)
+			ALL
+		PREFETCH: (Type of Prefetch)
+			SEQUENTIAL,READAHEAD
+		ROWLOCK : (Row Lock intent)
+			SHARE (CS/RS)
+		SKIP_INS: (Skip Inserted Rows)
+			TRUE
+		SPEED   : (Assumed speed of scan, in sharing structures)
+			SLOW
+		TABLOCK : (Table Lock intent)
+			INTENT SHARE
+		TBISOLVL: (Table access Isolation Level)
+			CURSOR STABILITY
+		THROTTLE: (Scan may be throttled, for scan sharing)
+			FALSE
+		VISIBLE : (May be included in scan sharing structures)
+			FALSE
+		WRAPPING: (Scan may start anywhere and wrap)
+			FALSE
+
+		Input Streams:
+		-------------
+			2) From Operator #5
+
+				Estimated number of rows: 	300000
+				Number of columns: 		2
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q1.ID(A)+Q1.$RID$
+
+			3) From Object HLOESER.V_RANDOM
+
+				Estimated number of rows: 	300000
+				Number of columns: 		1
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q1.V
+
+
+		Output Streams:
+		--------------
+			4) To Operator #3
+
+				Estimated number of rows: 	300000
+				Number of columns: 		2
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q2.DISTANCE+Q2.ID
+
+
+	5) IXSCAN: (Index Scan)
+		Cumulative Total Cost: 		309.235
+		Cumulative CPU Cost: 		5.17528e+08
+		Cumulative I/O Cost: 		181.19
+		Cumulative Re-Total Cost: 	42.6779
+		Cumulative Re-CPU Cost: 	5.16304e+08
+		Cumulative Re-I/O Cost: 	0
+		Cumulative First Row Cost: 	7.04938
+		Estimated Bufferpool Buffers: 	182
+
+		Arguments:
+		---------
+		CUR_COMM: (Currently Committed)
+			TRUE
+		LCKAVOID: (Lock Avoidance)
+			TRUE
+		MAXPAGES: (Maximum pages for prefetch)
+			153
+		PREFETCH: (Type of Prefetch)
+			SEQUENTIAL,READAHEAD
+		ROWLOCK : (Row Lock intent)
+			SHARE (CS/RS)
+		SCANDIR : (Scan Direction)
+			FORWARD
+		SKIP_INS: (Skip Inserted Rows)
+			TRUE
+		TABLOCK : (Table Lock intent)
+			INTENT SHARE
+		TBISOLVL: (Table access Isolation Level)
+			CURSOR STABILITY
+
+		Input Streams:
+		-------------
+			1) From Object SYSIBM.SQL260513113136090
+
+				Estimated number of rows: 	300000
+				Number of columns: 		2
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q1.ID(A)+Q1.$RID$
+
+
+		Output Streams:
+		--------------
+			2) To Operator #4
+
+				Estimated number of rows: 	300000
+				Number of columns: 		2
+				Subquery predicate ID: 		Not Applicable
+
+				Column Names:
+				------------
+				+Q1.ID(A)+Q1.$RID$
+
+
+Objects Used in Access Plan:
+---------------------------
+
+	Schema:   SYSIBM  
+	Name:     ACV260513113138458484_P4_O4_I2
+	Type:     Table (reference only)
+
+	Schema:   SYSIBM  
+	Name:     AGT260513113138458484_P4_O4_I2
+	Type:     Table (reference only)
+
+	Schema:   SYSIBM  
+	Name:     AIJ260513113138458484_P4_O4_I2
+	Type:     Table (reference only)
+
+	Schema:   SYSIBM  
+	Name:     SQL260513113136090
+	Type:     Index
+			Time of creation: 		2026-05-13-11.31.35.939977
+			Last statistics update: 	2026-05-13-13.29.55.925611
+			Number of columns: 		1
+			Number of rows: 		300000
+			Width of rows: 			-1
+			Number of buffer pool pages: 	276
+			Distinct row values: 		Yes
+			Tablespace name: 		TS_COMP_VECTORS
+			Tablespace overhead: 		6.725000
+			Tablespace transfer rate: 	0.320000
+			Source for statistics: 		Single Node
+			Prefetch page count: 		32
+			Container extent page count: 	32
+			Index clustering statistic: 	1.000000
+			Index leaf pages: 		153
+			Index tree levels: 		2
+			Index full key cardinality: 	300000
+			Index first key cardinality: 	300000
+			Index first 2 keys cardinality: -1
+			Index first 3 keys cardinality: -1
+			Index first 4 keys cardinality: -1
+			Index sequential pages: 	152
+			Index page density: 		84
+			Index avg sequential pages: 	152
+			Index avg gap between sequences:0
+			Index avg random pages: 	0
+			Fetch avg sequential pages: 	-1
+			Fetch avg gap between sequences:-1
+			Fetch avg random pages: 	-1
+			Index RID count: 		300000
+			Index deleted RID count: 	0
+			Index empty leaf pages: 	0
+			Base Table Schema: 		HLOESER 
+			Base Table Name: 		V_RANDOM
+			Columns in index:
+				ID(A)
+			Null keys: 			Yes
+
+	Schema:   HLOESER 
+	Name:     V_RANDOM
+	Type:     Table
+			Time of creation: 		2026-05-13-11.31.35.939977
+			Last statistics update: 	2026-05-13-13.29.55.925611
+			Number of columns: 		2
+			Number of rows: 		300000
+			Width of rows: 			26
+			Number of buffer pool pages: 	276
+			Number of data partitions: 	1
+			Distinct row values: 		No
+			Tablespace name: 		TS_COMP_VECTORS
+			Tablespace overhead: 		6.725000
+			Tablespace transfer rate: 	0.320000
+			Source for statistics: 		Single Node
+			Prefetch page count: 		32
+			Container extent page count: 	32
+			Table overflow record count: 	0
+			Table Active Blocks: 		-1
+			Average Row Compression Ratio: 	0
+			Percentage Rows Compressed: 	0
+			Average Compressed Row Size: 	0
+
