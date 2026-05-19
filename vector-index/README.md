@@ -3,4 +3,4 @@ This folder holds SQL scripts for some simple tests with Db2 vector indexes. The
 
 The files help demonstrate how to easily create / generate vector data, create a vector index, and see the index used or force its usage by applying optimization guidelines.
 
-
+See https://data-henrik.de/2026/05/db2-vector-indexes-nearest-neighbor/ for details.
